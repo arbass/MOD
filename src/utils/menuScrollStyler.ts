@@ -26,19 +26,6 @@ export const menuScrollStyler = () => {
   let currentLogoState: 'light' | 'default' = 'default';
 
   const updateMenuStyle = () => {
-    // Only run on screens >= 768px
-    if (window.innerWidth < 768) {
-      // Reset styles on smaller screens
-      menuNavElement.style.backgroundColor = '';
-      if (logoDark) {
-        (logoDark as HTMLElement).style.opacity = '';
-      }
-      if (logoLight) {
-        (logoLight as HTMLElement).style.opacity = '';
-      }
-      return;
-    }
-
     const menuRect = menuNav.getBoundingClientRect();
     const menuTop = menuRect.top + window.scrollY;
     const menuBottom = menuTop + menuRect.height;
