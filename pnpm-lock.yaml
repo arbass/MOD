@@ -11,6 +11,9 @@ importers:
       '@finsweet/ts-utils':
         specifier: ^0.40.0
         version: 0.40.0
+      intl-tel-input:
+        specifier: ^25.12.5
+        version: 25.12.5
     devDependencies:
       '@changesets/changelog-git':
         specifier: ^0.2.0
@@ -727,6 +730,9 @@ packages:
   imurmurhash@0.1.4:
     resolution: {integrity: sha512-JmXMZ6wuvDmLiHEml9ykzqO6lwFbof0GG4IkcGaENdCRDDmMVnny7s5HsIgHCbaq0w2MyPhDqkhTUgS2LU2PHA==}
     engines: {node: '>=0.8.19'}
+
+  intl-tel-input@25.12.5:
+    resolution: {integrity: sha512-zat95u/9sM0/xbAzbwEjk98lFhG26CSJ1f8BSoATnF5Pxw5/aiX3JJCQfOp+f44EZFsECF24nuKY/JlTXIwnUw==}
 
   is-extglob@2.1.1:
     resolution: {integrity: sha512-SbKbANkN603Vi4jEZv49LeVJMn4yGwsbzZworEoyEiutsN3nJYdbO36zfhGJ6QEDpOZIFkDtnq5JRxmvl3jsoQ==}
@@ -1784,6 +1790,8 @@ snapshots:
       resolve-from: 4.0.0
 
   imurmurhash@0.1.4: {}
+
+  intl-tel-input@25.12.5: {}
 
   is-extglob@2.1.1: {}
 
