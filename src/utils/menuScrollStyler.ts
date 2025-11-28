@@ -76,7 +76,7 @@ export const menuScrollStyler = () => {
       isInDarkZone = shouldBeDark;
 
       if (isInDarkZone) {
-        menuNavElement.style.backgroundColor = 'rgba(0, 0, 0, 0.3)';
+        menuNavElement.style.backgroundColor = 'rgba(2, 39, 31, 0.29)';
       } else {
         menuNavElement.style.backgroundColor = '';
       }
