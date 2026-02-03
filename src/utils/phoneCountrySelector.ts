@@ -109,6 +109,20 @@ function initPhoneInput(input: HTMLInputElement): void {
   if (form) {
     form.addEventListener('submit', (e) => handleSubmit(e, input, iti));
   }
+
+  // Recalculate padding on window resize (debounced)
+  let resizeTimeout: ReturnType<typeof setTimeout>;
+  const handleResize = () => {
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(() => {
+      // Trigger recalculation by re-setting the country
+      const countryData = iti.getSelectedCountryData();
+      if (countryData.iso2) {
+        iti.setCountry(countryData.iso2);
+      }
+    }, 150);
+  };
+  window.addEventListener('resize', handleResize);
 }
 
 /**
@@ -154,8 +168,9 @@ function handleSubmit(e: SubmitEvent, input: HTMLInputElement, iti: Iti): void {
     return;
   }
 
-  // Full international number is submitted via hidden input (phone_full)
-  // No need to modify visible input value
+  // Replace input value with full international number for Webflow form submission
+  const fullNumber = iti.getNumber();
+  input.value = fullNumber;
 }
 
 /**
