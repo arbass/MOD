@@ -48,9 +48,9 @@ function initPhoneInput(input: HTMLInputElement): void {
     // Lazy load utils for validation and formatting
     loadUtils: () => import('intl-tel-input/utils'),
 
-    // Auto-detect country via IP lookup with fallback
+    // Auto-detect country via IP lookup (shows globe icon if detection fails)
     initialCountry: 'auto',
-    geoIpLookup: (success) => {
+    geoIpLookup: (success, failure) => {
       fetch('https://ipapi.co/json')
         .then((res) => {
           if (!res.ok) throw new Error('GeoIP request failed');
@@ -60,13 +60,13 @@ function initPhoneInput(input: HTMLInputElement): void {
           if (data.country_code) {
             success(data.country_code);
           } else {
-            // Fallback to Czech Republic (company location)
-            success('cz');
+            // Show globe icon - no country selected
+            failure();
           }
         })
         .catch(() => {
-          // Fallback to Czech Republic (company location)
-          success('cz');
+          // Show globe icon - no country selected
+          failure();
         });
     },
 
