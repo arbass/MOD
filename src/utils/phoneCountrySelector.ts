@@ -1,91 +1,194 @@
+import type { Iti } from 'intl-tel-input';
 import intlTelInput from 'intl-tel-input';
 
+/**
+ * Phone country selector utility.
+ * Initializes intl-tel-input on all inputs with [intl-tel-input_inner] attribute.
+ * Provides country code dropdown, number formatting and validation.
+ */
+
+const SELECTOR = '[intl-tel-input_inner]';
+const CSS_CDN_URL =
+  'https://cdn.jsdelivr.net/npm/intl-tel-input@25.12.5/build/css/intlTelInput.min.css';
+
+// Store instances for cleanup
+const instances: Map<HTMLInputElement, Iti> = new Map();
+
 export const phoneCountrySelector = () => {
-  const phoneInput = document.querySelector('#phone') as HTMLInputElement;
-  
-  // Check if key element exists on the page
-  if (!phoneInput) {
+  const phoneInputs = document.querySelectorAll<HTMLInputElement>(SELECTOR);
+
+  // Check if key elements exist on the page
+  if (phoneInputs.length === 0) {
     return;
   }
 
   // Ensure required styles are available
-  ensureIntlTelInputAssets();
+  injectStyles();
 
-  // Initialize intl-tel-input
-  const iti = intlTelInput(phoneInput, {
-    // Use full country data (includes country names, dial codes, and flags)
-    utilsScript: 'https://cdn.jsdelivr.net/npm/intl-tel-input@25.12.5/build/js/utils.js',
-    
-    // Preferred countries at the top
-    preferredCountries: ['ua', 'us', 'gb', 'de'],
-    
-    // Allow to type the dial code
-    nationalMode: false,
-    
-    // Format as user types
-    autoPlaceholder: 'aggressive',
-    
-    // Separate dial code in the dropdown
+  // Initialize each phone input
+  phoneInputs.forEach((input) => initPhoneInput(input));
+
+  // Return cleanup function
+  return () => {
+    instances.forEach((iti) => iti.destroy());
+    instances.clear();
+  };
+};
+
+/**
+ * Initialize intl-tel-input on a single input element.
+ */
+function initPhoneInput(input: HTMLInputElement): void {
+  // Skip if already initialized
+  if (instances.has(input)) {
+    return;
+  }
+
+  const iti = intlTelInput(input, {
+    // Lazy load utils for validation and formatting
+    loadUtils: () => import('intl-tel-input/utils'),
+
+    // Auto-detect country via IP lookup with fallback
+    initialCountry: 'auto',
+    geoIpLookup: (success) => {
+      fetch('https://ipapi.co/json')
+        .then((res) => {
+          if (!res.ok) throw new Error('GeoIP request failed');
+          return res.json();
+        })
+        .then((data) => {
+          if (data.country_code) {
+            success(data.country_code);
+          } else {
+            // Fallback to Czech Republic (company location)
+            success('cz');
+          }
+        })
+        .catch(() => {
+          // Fallback to Czech Republic (company location)
+          success('cz');
+        });
+    },
+
+    // Priority countries at the top of the list
+    countryOrder: ['cz', 'de', 'gb', 'us', 'nl', 'at'],
+
+    // Display options
     separateDialCode: true,
-    
-    // Show flags
     showFlags: true,
-    
-    // Search placeholder
+    countrySearch: true,
+
+    // Formatting - nationalMode true since dial code is shown separately
+    nationalMode: true,
+    formatAsYouType: true,
+    autoPlaceholder: 'aggressive',
+    strictMode: true,
+
+    // Hidden input for form submission with full international number
+    hiddenInput: () => ({
+      phone: 'phone_full',
+      country: 'phone_country',
+    }),
+
+    // i18n
     i18n: {
       searchPlaceholder: 'Search country',
     },
   });
 
-  // Optional: Add validation on blur
-  phoneInput.addEventListener('blur', () => {
-    if (phoneInput.value.trim()) {
-      if (iti.isValidNumber()) {
-        phoneInput.classList.remove('error');
-        phoneInput.classList.add('valid');
-      } else {
-        phoneInput.classList.remove('valid');
-        phoneInput.classList.add('error');
-      }
-    }
-  });
+  instances.set(input, iti);
 
-  // Optional: Clear validation on focus
-  phoneInput.addEventListener('focus', () => {
-    phoneInput.classList.remove('error', 'valid');
-  });
+  // Validation on blur
+  input.addEventListener('blur', () => handleBlur(input, iti));
 
-  // Optional: Store the full international number in a hidden field or data attribute
-  const form = phoneInput.closest('form');
+  // Clear validation state on focus
+  input.addEventListener('focus', () => handleFocus(input));
+
+  // Form submission handling
+  const form = input.closest('form');
   if (form) {
-    form.addEventListener('submit', (e) => {
-      // Get the full international number
-      const fullNumber = iti.getNumber();
-      
-      // Store it in data attribute or update the input value
-      phoneInput.dataset.fullNumber = fullNumber;
-      
-      // Optional: Validate before submit
-      if (!iti.isValidNumber()) {
-        e.preventDefault();
-        phoneInput.classList.add('error');
-        console.warn('Invalid phone number');
-      }
-    });
+    form.addEventListener('submit', (e) => handleSubmit(e, input, iti));
   }
-
-  // Return cleanup function
-  return () => {
-    iti.destroy();
-  };
-};
-
-const CSS_CDN_URL = 'https://cdn.jsdelivr.net/npm/intl-tel-input@25.12.5/build/css/intlTelInput.min.css';
+}
 
 /**
- * Ensure that the intl-tel-input styles are available on the page.
+ * Handle input blur - validate number.
  */
-function ensureIntlTelInputAssets() {
+function handleBlur(input: HTMLInputElement, iti: Iti): void {
+  const value = input.value.trim();
+  if (!value) {
+    clearValidationState(input);
+    return;
+  }
+
+  if (iti.isValidNumber()) {
+    setValidState(input);
+  } else {
+    setErrorState(input);
+  }
+}
+
+/**
+ * Handle input focus - clear validation styling.
+ */
+function handleFocus(input: HTMLInputElement): void {
+  clearValidationState(input);
+}
+
+/**
+ * Handle form submission - validate and format number.
+ */
+function handleSubmit(e: SubmitEvent, input: HTMLInputElement, iti: Iti): void {
+  const value = input.value.trim();
+
+  // Allow empty if not required
+  if (!value && !input.required) {
+    return;
+  }
+
+  if (!iti.isValidNumber()) {
+    e.preventDefault();
+    e.stopPropagation();
+    setErrorState(input);
+    input.focus();
+    return;
+  }
+
+  // Full international number is submitted via hidden input (phone_full)
+  // No need to modify visible input value
+}
+
+/**
+ * Set valid state on input.
+ */
+function setValidState(input: HTMLInputElement): void {
+  input.classList.remove('is-error');
+  input.classList.add('is-valid');
+  input.setCustomValidity('');
+}
+
+/**
+ * Set error state on input.
+ */
+function setErrorState(input: HTMLInputElement): void {
+  input.classList.remove('is-valid');
+  input.classList.add('is-error');
+  input.setCustomValidity('Please enter a valid phone number');
+}
+
+/**
+ * Clear validation state from input.
+ */
+function clearValidationState(input: HTMLInputElement): void {
+  input.classList.remove('is-error', 'is-valid');
+  input.setCustomValidity('');
+}
+
+/**
+ * Inject required CSS styles into the document.
+ */
+function injectStyles(): void {
+  // Library CSS
   if (!document.getElementById('intl-tel-input-css')) {
     const link = document.createElement('link');
     link.id = 'intl-tel-input-css';
@@ -95,27 +198,58 @@ function ensureIntlTelInputAssets() {
     document.head.appendChild(link);
   }
 
-  if (!document.getElementById('phone-country-custom-style')) {
+  // Custom overrides for Webflow integration
+  if (!document.getElementById('intl-tel-input-custom-css')) {
     const style = document.createElement('style');
-    style.id = 'phone-country-custom-style';
+    style.id = 'intl-tel-input-custom-css';
     style.textContent = `
+      /* Container takes full width */
       .iti {
         width: 100%;
+        display: block;
       }
 
+      /* Input takes full width */
       .iti__tel-input {
         width: 100%;
       }
 
+      /* Align country selector inside input */
       .iti--allow-dropdown .iti__country-container {
-        inset-inline-start: 8px;
+        inset-inline-start: 0.5rem;
       }
 
+      /* Round left corners on selector */
       .iti__selected-country {
-        border-radius: 6px 0 0 6px;
+        border-radius: 0.375rem 0 0 0.375rem;
+      }
+
+      /* Validation states */
+      .iti .is-error {
+        border-color: #dc3545 !important;
+      }
+
+      .iti .is-valid {
+        border-color: #28a745 !important;
+      }
+
+      /* Dropdown z-index for Webflow */
+      .iti__dropdown-content {
+        z-index: 9999;
+      }
+
+      /* Taller search input with space for magnifier icon */
+      .iti__search-input {
+        height: 3rem !important;
+        padding: 0.75rem 1rem 0.75rem 2.5rem !important;
+        font-size: 1rem;
+      }
+
+      /* Add space between dial code and phone number input */
+      .iti__selected-dial-code {
+        margin-right: 0.5rem !important;
       }
     `;
     document.head.appendChild(style);
   }
 }
-

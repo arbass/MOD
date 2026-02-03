@@ -1,20 +1,20 @@
 export const coloredCardsStyler = () => {
   const coloredCardsGrid = document.querySelector('.colored-cards-grid');
-  
+
   if (!coloredCardsGrid) return;
 
   const items = coloredCardsGrid.querySelectorAll('.colored-cards-grid_item');
-  
+
   if (!items.length) return;
 
   // Try to get colors from data attribute
   const dataAttribute = coloredCardsGrid.getAttribute('colored-cards-grid-data');
-  
+
   let colorPattern: string[];
-  
+
   if (dataAttribute && dataAttribute.trim()) {
     // Parse colors from attribute (comma-separated hex values without #)
-    colorPattern = dataAttribute.split(',').map(color => {
+    colorPattern = dataAttribute.split(',').map((color) => {
       const trimmedColor = color.trim();
       // Add # prefix if not present
       return trimmedColor.startsWith('#') ? trimmedColor : `#${trimmedColor}`;
@@ -37,4 +37,3 @@ export const coloredCardsStyler = () => {
     (item as HTMLElement).style.backgroundColor = colorPattern[colorIndex];
   });
 };
-
