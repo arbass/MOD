@@ -367,7 +367,7 @@ function cleanHtmlForCopy(element: HTMLElement): string {
     clone.removeAttribute('article-cta-card-edit');
   }
 
-  // Remove editor-specific inline styles
+  // Remove editor-specific inline styles (outline only)
   clone.querySelectorAll('*').forEach((el) => {
     const htmlEl = el as HTMLElement;
     if (htmlEl.style) {
@@ -960,11 +960,12 @@ function setupInlineEditing(): void {
 // Page slug where editor should be active
 const EDITOR_PAGE_SLUG = '/cta---construcor';
 
+
 /**
  * Main initialization function
  */
 export const articleCtaCardEditor = (): void => {
-  // Only run on the CTA constructor page
+  // Only run editor functionality on the CTA constructor page
   if (!window.location.pathname.includes(EDITOR_PAGE_SLUG)) {
     return;
   }
@@ -976,7 +977,7 @@ export const articleCtaCardEditor = (): void => {
     return;
   }
 
-  // Inject styles
+  // Inject editor styles
   injectStyles();
 
   // Setup all functionality
