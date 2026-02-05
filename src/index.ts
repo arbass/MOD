@@ -1,3 +1,4 @@
+import { articleCtaCardEditor } from './utils/articleCtaCardEditor';
 import { coloredCardsStyler } from './utils/coloredCardsStyler';
 import { currentYearInserter } from './utils/currentYearInserter';
 import { menuScrollStyler } from './utils/menuScrollStyler';
@@ -9,4 +10,5 @@ window.Webflow.push(() => {
   currentYearInserter();
   coloredCardsStyler();
   phoneCountrySelector();
+  articleCtaCardEditor();
 });
