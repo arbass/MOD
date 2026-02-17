@@ -1,0 +1,129 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Partner Program",
+  "url": "/partner-program",
+  "inLanguage": "en",
+  "description": "Grow your business with our white-label modular data centers. Designed for system integrators, hardware providers, and infrastructure partners. Technical support, co-selling, and scalable manufacturing.",
+  "about": {
+    "@type": "Organization",
+    "name": "ModulEdge",
+    "description": "Partner with ModulEdge — White‑Label Modular Data Centers. Deliver enterprise‑grade infrastructure without production investment. We design, build, and test — you brand, sell, and scale.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "CZ"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/company/moduledge/"
+    ],
+    "makesOffer": [
+      {
+        "@type": "Offer",
+        "name": "White-Label Modular Data Centers",
+        "description": "Factory-built modular data centers that partners can resell under their own brand. 20-ft and 40-ft containerized units fully customized for power, cooling, racks, and IT gear.",
+        "category": "White-Label Partnership"
+      },
+      {
+        "@type": "Offer",
+        "name": "System Integrator Partnership",
+        "description": "Partner program for system integrators to expand infrastructure portfolio without production overhead. Includes engineering, manufacturing, optional joint marketing and enablement support.",
+        "category": "Partnership Program"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is a modular data center?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5–50 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why consider a modular data center?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and defense choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge's portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How are modular data centers different from traditional data centers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge's containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are you Tier III certified?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Designed to meet Tier I - IV principles."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you support AI training clusters?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Edge AI inference at ≥40 kW per rack."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What's the typical lead time?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Custom builds: 3–6 months depending on site readiness."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you handle hot or variable climates?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "DX, chilled‑water, adiabatic, or free‑cooling options available."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can the modules handle harsh environments?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, with dust/sand/humidity hardening, vibration tolerance, and optional EMP shielding."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will this integrate with our existing monitoring and access control?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, integrated monitoring and access/CCTV systems are included."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can we redeploy modules later?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, 20‑ft and 40‑ft units are redeployable."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you sell direct or via partners?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Partner‑first approach."
+        }
+      }
+    ]
+  }
+}
+</script>

@@ -1,0 +1,177 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Case Studies",
+  "url": "/case-study",
+  "description": "Explore real-world modular data center deployments: EMP-shielded facilities, edge computing, mobile units, and energy-efficient builds from 40-320 kW.",
+  "inLanguage": "en",
+  "about": {
+    "@type": "Organization",
+    "name": "ModulEdge",
+    "description": "ModulEdge designs scalable modular data centers from 5–50 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.",
+    "sameAs": [
+      "https://www.linkedin.com/company/moduledge/"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "CZ"
+    }
+  },
+  "hasPart": [
+    {
+      "@type": "Article",
+      "headline": "Shielded Modular Data Center (EMP/IEMI Protection)",
+      "description": "Fully shielded modular enclosure with verified Faraday-grade protection, EMP-rated SPDs, and concurrent-maintainable power/cooling for sensitive workloads.",
+      "url": "/case-study/shielded-modular-data-center-emp-iemi-protection",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab2c7b4dceceb3a559de_Rectangle%20799.jpg"
+      }
+    },
+    {
+      "@type": "Article",
+      "headline": "Public-Sector Modular Data Center (Energy-Efficient, Relocatable Build)",
+      "description": "Two joined 40-ft containerized data centers hosting up to 120 kW IT load, combining hybrid free-cooling with DX systems for Tier III resilience and low OPEX.",
+      "url": "/case-study/public-sector-modular-data-center-energy-efficient-relocatable-build",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab3d52224142f6d1d1c4_Rectangle%20815.jpg"
+      }
+    },
+    {
+      "@type": "Article",
+      "headline": "Modular Data Centers for National Road-Traffic Video Capture Infrastructure",
+      "description": "Two-site, four-module complex providing 320 kW total IT load, N+1 power and cooling, and full data replication for nationwide traffic-violation analytics.",
+      "url": "/case-study/modular-data-centers-for-national-road-traffic-video-capture-infrastructure",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab4ede6fc418c5c13939_Rectangle%20816.jpg"
+      }
+    },
+    {
+      "@type": "Article",
+      "headline": "Mobile All‑in‑One MDC on Wheeled Platforms",
+      "description": "40-ft containerized data center with six racks (40 kW) on wheeled platforms, relocatable within one hour through pre-staged quick-disconnect systems.",
+      "url": "/case-study/mobile-all-in-one-mdc-on-wheeled-platforms",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906ba7dff3e72eab54b911a_image%20290.avif"
+      }
+    },
+    {
+      "@type": "Article",
+      "headline": "Deployable Edge Data Center for International Mission in Eastern Europe",
+      "description": "ISO-width modular cluster delivering 40 kW across four racks for a temporary security mission, built to Tier III principles and redeployable at mission end.",
+      "url": "/case-study/deployable-edge-data-center-for-international-mission-in-eastern-europe",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b5e1354cf7990fecdaf0_image%20289.avif"
+      }
+    },
+    {
+      "@type": "Article",
+      "headline": "Indirect Free Cooling MDC in Dense Urban Courtyard",
+      "description": "Two shortened modules providing 35 kW IT load with indirect free-cooling, engineered to pass through a narrow archway and operate inside a historic courtyard.",
+      "url": "/case-study/indirect-free-cooling-mdc-in-dense-urban-courtyard",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b0704e6d52be9c9f53cd_Indirect%20Free%20Cooling%20MDC%20in%20Dense%20Urban%20Courtyard%20.avif"
+      }
+    }
+  ],
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is a modular data center?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5–50 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why consider a modular data center?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and defense choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge's portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How are modular data centers different from traditional data centers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge's containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are you Tier III certified?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Designed to meet Tier I - IV principles"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you support AI training clusters?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Edge AI inference at ≥40 kW per rack"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What's the typical lead time?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Custom builds: 3–6 months depending on site readiness"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you handle hot or variable climates?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "DX, chilled‑water, adiabatic, or free‑cooling options available"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can the modules handle harsh environments?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dust/sand/humidity hardening, vibration tolerance, and optional EMP shielding available"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will this integrate with our existing monitoring and access control?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Integrated monitoring and access/CCTV systems available"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can we redeploy modules later?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "20‑ft and 40‑ft modules are redeployable"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you sell direct or via partners?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Partner‑first approach"
+        }
+      }
+    ]
+  }
+}
+</script>

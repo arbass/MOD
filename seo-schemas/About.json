@@ -1,0 +1,78 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About ModulEdge | Modular Data Center Manufacturer & Engineering Team",
+  "url": "/about",
+  "inLanguage": "en",
+  "about": {
+    "@type": "Organization",
+    "name": "ModulEdge",
+    "description": "ModulEdge designs and manufactures modular data centers that deliver reliable, high-density compute exactly where it's needed — on-site, on the edge, and under real-world constraints.",
+    "foundingDate": "2015",
+    "url": "https://www.linkedin.com/company/moduledge/",
+    "sameAs": [
+      "https://www.linkedin.com/company/moduledge/"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "CZ",
+      "addressLocality": "Czech Republic"
+    },
+    "areaServed": [
+      {
+        "@type": "Place",
+        "name": "Europe"
+      },
+      {
+        "@type": "Place",
+        "name": "MENA"
+      },
+      {
+        "@type": "Place",
+        "name": "Central Asia"
+      }
+    ],
+    "slogan": "Engineered in Europe. Proven in extreme conditions.",
+    "knowsAbout": [
+      "Modular Data Centers",
+      "Edge Computing",
+      "AI Infrastructure",
+      "High-Density Compute",
+      "Power Systems",
+      "Cooling Systems",
+      "Industrial Data Centers"
+    ],
+    "employee": [
+      {
+        "@type": "Person",
+        "name": "Michal Šiler",
+        "jobTitle": "CEO",
+        "description": "We don't sell boxes. We build reliability in places where it's usually optional."
+      }
+    ],
+    "location": [
+      {
+        "@type": "Place",
+        "name": "Czech Republic",
+        "description": "Headquarters"
+      },
+      {
+        "@type": "Place",
+        "name": "Ukraine",
+        "description": "Manufacturing and assembly"
+      }
+    ],
+    "makesOffer": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Modular Data Center Design and Manufacturing",
+          "description": "Custom-engineered modular data centers with integrated power, cooling, and protection systems for edge computing and AI workloads"
+        }
+      }
+    ]
+  }
+}
+</script>
