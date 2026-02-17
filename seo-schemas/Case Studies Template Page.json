@@ -1,0 +1,34 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{wf {&quot;path&quot;:&quot;name&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}",
+  "description": "{{wf {&quot;path&quot;:&quot;seo---description&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}",
+  "url": "/case-study/{{wf {&quot;path&quot;:&quot;slug&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}",
+  "inLanguage": "en",
+  "datePublished": "{{wf {&quot;path&quot;:&quot;published-on&quot;,&quot;type&quot;:&quot;Date&quot;\} }}",
+  "dateModified": "{{wf {&quot;path&quot;:&quot;updated-on&quot;,&quot;type&quot;:&quot;Date&quot;\} }}",
+  "author": {
+    "@type": "Organization",
+    "name": "ModulEdge"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "ModulEdge"
+  },
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{wf {&quot;path&quot;:&quot;hero-image-hero&quot;,&quot;type&quot;:&quot;ImageRef&quot;\} }}"
+  },
+  "about": {
+    "@type": "Product",
+    "name": "Shielded Modular Data Center",
+    "description": "Fully shielded modular enclosure with verified Faraday-grade protection, EMP-rated SPDs, and concurrent-maintainable power/cooling for sensitive workloads",
+    "category": "Modular Data Center",
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+}
+</script>
