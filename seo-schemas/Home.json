@@ -11,8 +11,17 @@
     "name": "ModulEdge",
     "url": "https://www.moduledge.com",
     "description": "Provider of custom-fit modular data centers for AI and edge compute, delivering 5–50 kW per rack with multiple cooling options and Tier III modular data center design principles.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69945da4813eba50c3e1c62f_ModulEdge%20Logo.png"
+    },
+    "email": "info@moduledge.com",
+    "telephone": "+351937358084",
     "address": {
       "@type": "PostalAddress",
+      "streetAddress": "Vodní 52/3",
+      "postalCode": "767 01",
+      "addressLocality": "Kroměříž",
       "addressCountry": "CZ"
     },
     "sameAs": [
