@@ -50,7 +50,7 @@
         "name": "What is a modular data center?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5–50 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most."
+          "text": "A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5–150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most."
         }
       },
       {
@@ -71,7 +71,7 @@
       },
       {
         "@type": "Question",
-        "name": "Are you Tier III certified?",
+        "name": "Are you Tier III/IV certified?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Designed to meet Tier I - IV principles."

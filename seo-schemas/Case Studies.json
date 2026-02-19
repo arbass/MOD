@@ -9,7 +9,7 @@
   "about": {
     "@type": "Organization",
     "name": "ModulEdge",
-    "description": "ModulEdge designs scalable modular data centers from 5–50 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.",
+    "description": "ModulEdge designs scalable modular data centers from 5–150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.",
     "url": "https://www.moduledge.com",
     "logo": {
       "@type": "ImageObject",
@@ -42,7 +42,7 @@
     {
       "@type": "Article",
       "headline": "Public-Sector Modular Data Center (Energy-Efficient, Relocatable Build)",
-      "description": "Two joined 40-ft containerized data centers hosting up to 120 kW IT load, combining hybrid free-cooling with DX systems for Tier III resilience and low OPEX.",
+      "description": "Two joined 40-ft containerized data centers hosting up to 120 kW IT load, combining hybrid free-cooling with DX systems for Tier III/IV resilience and low OPEX.",
       "url": "/case-study/public-sector-modular-data-center-energy-efficient-relocatable-build",
       "image": {
         "@type": "ImageObject",
@@ -72,7 +72,7 @@
     {
       "@type": "Article",
       "headline": "Deployable Edge Data Center for International Mission in Eastern Europe",
-      "description": "ISO-width modular cluster delivering 40 kW across four racks for a temporary security mission, built to Tier III principles and redeployable at mission end.",
+      "description": "ISO-width modular cluster delivering 40 kW across four racks for a temporary security mission, built to Tier III/IV principles and redeployable at mission end.",
       "url": "/case-study/deployable-edge-data-center-for-international-mission-in-eastern-europe",
       "image": {
         "@type": "ImageObject",
@@ -98,7 +98,7 @@
         "name": "What is a modular data center?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5–50 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most."
+          "text": "A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5–150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most."
         }
       },
       {
@@ -119,7 +119,7 @@
       },
       {
         "@type": "Question",
-        "name": "Are you Tier III certified?",
+        "name": "Are you Tier III/IV certified?",
         "acceptedAnswer": {
           "@type": "Answer",
           "text": "Designed to meet Tier I - IV principles"
