@@ -3,7 +3,7 @@
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "name": "Blog",
-  "url": "/blog",
+  "url": "https://www.moduledge.com/blog",
   "description": "Insights, guides, and technical articles on modular data centers, edge computing, AI infrastructure, and power architecture from the ModulEdge engineering team.",
   "inLanguage": "en",
   "about": {

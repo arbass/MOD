@@ -3,7 +3,7 @@
   "@context": "https://schema.org",
   "@type": "ContactPage",
   "name": "Contact Us",
-  "url": "/contact-us",
+  "url": "https://www.moduledge.com/contact-us",
   "inLanguage": "en",
   "description": "Get in touch with ModulEdge for modular data center solutions, technical consultations, and project estimates.",
   "mainEntity": {

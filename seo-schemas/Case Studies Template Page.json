@@ -4,7 +4,7 @@
   "@type": "Article",
   "headline": "{{wf {&quot;path&quot;:&quot;name&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}",
   "description": "{{wf {&quot;path&quot;:&quot;seo---description&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}",
-  "url": "/case-study/{{wf {&quot;path&quot;:&quot;slug&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}",
+  "url": "https://www.moduledge.com/case-study/{{wf {&quot;path&quot;:&quot;slug&quot;,&quot;type&quot;:&quot;PlainText&quot;\} }}",
   "inLanguage": "en",
   "datePublished": "{{wf {&quot;path&quot;:&quot;published-on&quot;,&quot;type&quot;:&quot;Date&quot;\} }}",
   "dateModified": "{{wf {&quot;path&quot;:&quot;updated-on&quot;,&quot;type&quot;:&quot;Date&quot;\} }}",
