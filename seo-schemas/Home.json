@@ -69,39 +69,23 @@
         "name": "What is a modular data center?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5–150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most."
+          "text": "A modular data center is a prefabricated, container-based facility that integrates racks, power distribution, cooling, fire suppression, and security systems inside a portable enclosure. ModulEdge builds them in 20-ft and 40-ft ISO containers, supporting 4 to 16+ racks with power densities from 5 to 150 kW per rack. They ship fully tested and deploy in 3 to 6 months."
         }
       },
       {
         "@type": "Question",
-        "name": "Why consider a modular data center?",
+        "name": "Why consider a modular data center instead of a traditional build?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and defense choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge's portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions."
+          "text": "Traditional data centers take years to build on-site and carry significant construction risk. Modular data centers are built in controlled factory conditions, fully tested before shipment, and deploy in months, not years. You get predictable performance, step-by-step scalability, and on-premise control without the overhead of a conventional build."
         }
       },
       {
         "@type": "Question",
-        "name": "How are modular data centers different from traditional data centers?",
+        "name": "Does your infrastructure support AI inference and model fine-tuning?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge's containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Are you Tier III/IV certified?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Designed to meet Tier I - IV principles."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do you support AI training clusters?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Edge AI inference at ≥40 kW per rack."
+          "text": "Yes. Our high-density configurations start at 40 kW per rack and go up to 150 kW with direct-to-chip liquid cooling. We support NVIDIA B200, GB200, H200, H100 and AMD GPU servers. The thermal management and power infrastructure are purpose-built for sustained AI workloads at the edge."
         }
       },
       {
@@ -109,7 +93,7 @@
         "name": "What's the typical lead time?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Custom builds: 3–6 months depending on site readiness."
+          "text": "Custom builds take 3 to 6 months depending on configuration complexity and site readiness for power and networking."
         }
       },
       {
@@ -117,7 +101,7 @@
         "name": "How do you handle hot or variable climates?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "DX, chilled-water, adiabatic, or free-cooling options available."
+          "text": "We match cooling to your climate and energy economics. Options include DX cooling (5 to 15 kW/rack), chilled water, adiabatic, free cooling, and hybrid systems (15 to 40 kW/rack). For high-density AI workloads, we offer direct-to-chip liquid cooling up to 100+ kW per rack."
         }
       },
       {
@@ -125,15 +109,7 @@
         "name": "Can the modules handle harsh environments?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes, with dust/sand/humidity hardening, vibration tolerance, and optional EMP shielding."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Will this integrate with our existing monitoring and access control?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, with integrated monitoring and access/CCTV systems."
+          "text": "Yes. Our modules operate from -35°C to +52°C, which is significantly wider than the industry standard range. They include dust, sand, and humidity hardening, vibration tolerance, and optional EMP/IEMI Faraday-grade shielding for critical infrastructure and defense applications."
         }
       },
       {
@@ -141,7 +117,7 @@
         "name": "Can we redeploy modules later?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes, available in 20-ft and 40-ft redeployable configurations."
+          "text": "Yes. Standard 20-ft and 40-ft ISO containers are designed for relocation. We provide placement and relocation support as part of our service."
         }
       },
       {
@@ -149,7 +125,7 @@
         "name": "Do you sell direct or via partners?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Partner-first approach."
+          "text": "Both. We work with system integrators, OEM partners, and white-label channels, and we also engage directly with end clients on larger projects. Our partner program supports resellers with technical design, marketing, and delivery coordination."
         }
       }
     ]
