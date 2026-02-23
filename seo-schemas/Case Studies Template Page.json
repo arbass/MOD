@@ -42,11 +42,7 @@
     "@type": "Product",
     "name": "Shielded Modular Data Center",
     "description": "Fully shielded modular enclosure with verified Faraday-grade protection, EMP-rated SPDs, and concurrent-maintainable power/cooling for sensitive workloads",
-    "category": "Modular Data Center",
-    "offers": {
-      "@type": "Offer",
-      "availability": "https://schema.org/InStock"
-    }
+    "category": "Modular Data Center"
   }
 }
 </script>

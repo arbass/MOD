@@ -61,7 +61,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "Environmental Hardening",
-          "description": "Dust, sand, and humidity sealing per ISO 14644 / IEC 60529, tested for −40 °C to +55 °C ambient conditions with optional EMP/EMI shielding"
+          "description": "Dust, sand, and humidity sealing per ISO 14644 / IEC 60529, tested for −35 °C to +52 °C ambient conditions with optional EMP/EMI shielding"
         }
       }
     ]
