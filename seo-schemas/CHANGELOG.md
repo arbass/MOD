@@ -1,5 +1,14 @@
 # SEO Schemas Changelog
 
+## 2026-03-16 — Live sync verification + repo cleanup
+
+### Changes:
+- Fetched all 7 live schemas and compared against local files — **100% match**, no discrepancies.
+- Deleted `seo-schemas-from-19fb-old/` folder (no longer needed).
+- Created `REQUIREMENTS.md` — standing rules from Yura for all future schema work.
+
+---
+
 ## 2026-03-16 — Defense removal + FAQ schema cleanup
 
 ### Changes:
@@ -18,9 +27,9 @@
 - ✅ #6 Blog Article — `articleBody` field removed (fixed in Webflow directly)
 - ✅ #7 About — `numberOfEmployees` present
 
-### Pending (not yet pasted into Webflow):
-- `Customization.json` — defense fix
-- `Contact Us.json` — defense fix + FAQ removed
+### Applied to Webflow (verified live 2026-03-16):
+- ✅ `Customization.json` — defense fix pasted and published
+- ✅ `Contact Us.json` — defense fix + FAQ removed, pasted and published
 
 ---
 
