@@ -1,0 +1,2973 @@
+# www.moduledge.com Documentation
+
+> Generated on 2025-12-03T15:50:24.956Z
+
+## Table of Contents
+
+- [Custom-fit modular data centers for AI inference and edge compute | ModulEdge](https://www.moduledge.com) - Engineered modular data centers tailored for AI workloads, edge computing, and mission-critical deployments. Flexible designs, rapid deployment, European quality, and advanced cooling options.
+- [Custom Modular Data Center Design & Engineering | ModulEdge](https://www.moduledge.com/customization) - Full customization for modular data centers including cooling architecture, power systems, security, mobility, and integration options. Tailored builds for AI, HPC, telecom, and industrial edge.
+- [ModulEdge Partner Program | White-Label & Integrator Solutions](https://www.moduledge.com/partner-program) - Grow your business with our white-label modular data centers. Designed for system integrators, hardware providers, and infrastructure partners. Technical support, co-selling, and scalable manufacturing.
+- [About ModulEdge | Modular Data Center Manufacturer & Engineering Team](https://www.moduledge.com/about) - European engineering team delivering secure, reliable, and customizable modular data centers for demanding AI and edge environments. Precision manufacturing, fast deployment, global delivery.
+- [ModulEdge | Case Studies](https://www.moduledge.com/case-study) - Explore real-world modular data center deployments: EMP-shielded facilities, edge computing, mobile units, and energy-efficient builds from 40-320 kW.
+- [Contact ModulEdge | Custom Modular Data Center Experts](https://www.moduledge.com/contact-us) - Speak with our engineering and commercial team about custom modular data centers for AI, edge, telecom, and secure workloads. Request a technical consultation or project estimate.
+- [Privacy Policy](https://www.moduledge.com/privacy-policy) - 
+- [Terms & Conditions](https://www.moduledge.com/terms-conditions) - 
+- [Deployable Edge Modular Data Center for Field Missions](https://www.moduledge.com/case-study/deployable-edge-data-center-for-international-mission-in-eastern-europe) - Rugged modular data center deployed in Eastern Europe to support secure field operations. Rapid setup, redundant power, and continuous availability in demanding environments.
+- [Indirect Free-Cooling Modular Data Center for Urban Edge Environments](https://www.moduledge.com/case-study/indirect-free-cooling-mdc-in-dense-urban-courtyard) - Compact modular data center optimized for dense urban courtyard installation with indirect free cooling. Quiet operation, energy-efficient cooling, and minimal footprint.
+- [Mobile Modular Data Center on Wheels for Tactical & Field Deployments](https://www.moduledge.com/case-study/mobile-all-in-one-mdc-on-wheeled-platforms) - Self-contained mobile modular data center with integrated power and cooling for field, telecom, and emergency deployments. Designed for mobility, reliability, and fast activation.
+- [Edge Modular Data Center for National Traffic Video Capture & Analytics](https://www.moduledge.com/case-study/modular-data-centers-for-national-road-traffic-video-capture-infrastructure) - Purpose-built modular data center supporting nationwide traffic video capture and real-time analytics. High-bandwidth edge compute, secure storage, and resilient operations.
+- [Energy-Efficient Relocatable Modular Data Center for Public Sector](https://www.moduledge.com/case-study/public-sector-modular-data-center-energy-efficient-relocatable-build) - Scalable modular data center deployed for government operations, optimized for energy efficiency and relocatability. Secure, compliant, and built for long-term public-sector use.
+- [EMP-Shielded Modular Data Center for Secure Critical Infrastructure](https://www.moduledge.com/case-study/shielded-modular-data-center-emp-iemi-protection) - Modular data center engineered with EMP and IEMI shielding for government and national-security workloads. Hardened infrastructure, secure power and cooling, high-assurance operations.
+
+
+# Full Content
+
+---
+
+## [Custom-fit modular data centers for AI inference and edge compute | ModulEdge](https://www.moduledge.com)
+
+# Custom-fit modular data centers for AI inference and edge compute  
+
+Trusted by partners, proven in the field
+
+ 
+
+## Built for demanding sites and on-prem workloads, our prefabricated modular data center solutions deliver 5-150 kW per rack.  
+  
+Multiple modular data center cooling options — including free-cooling — and Tier III modular data center design principles ensure reliable, efficient operation in any environment.  
+
+[
+
+Book a 30-min call
+
+](/contact-us)[
+
+Get my configuration
+
+](/../#configuration)
+
+No commitment. NDA available.
+
+## Containerized Modular Data Center Specs that Solve Real Problems  
+
+### Power and density
+
+5-150 kW per rack. Modular, containerized compute capacity for mixed workloads — scalable without overbuilding.  
+
+### Cooling options
+
+DX, chilled-water, adiabatic, or free-cooling systems built into prefabricated modules. Each container data center is tuned to site climate and energy efficiency for predictable PUE.  
+
+### Environmental Hardening
+
+Ruggedized modular enclosures for dust, sand, humidity, and vibration. Operates from –35 °C to +52 °C with optional EMP-shielded packages for mobile or remote sites.  
+
+### Integrated Infrastructure
+
+Prefabricated racks, UPS/power, cooling, fire suppression, monitoring, and access systems — a complete portable data center solution ready for fast deployment.  
+
+### Availability & Scalability by Design
+
+Built to meet Tier III/IV principles and fully tested (FAT/SAT). Modular, redeployable design enables 3–6 month custom builds and stepwise expansion of containerized sites.  
+
+### Efficient Logistics
+
+Modules sized for EU-compliant road transport to avoid oversize-load permits and escorts. Mobile, prefabricated construction shortens deployment time and lowers total cost.  
+
+[
+
+Download special snapshot
+
+](/contact-us)
+
+## Two paths to value  
+How ModulEdge works
+
+### Partners and OEMs
+
+White-label-ready modular data centers you can brand as your own. Configure power (5-150 kW/rack), cooling, and hardening for each deployment. We provide engineering and modular data center construction support from design review through FAT/SAT, plus branding kits and partner collateral.  
+
+[
+
+Request partner pack
+
+](/contact-us)
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6905dfa5ce0cb1063c705787_Group%2011456.svg)
+
+### Operators and Enterprises
+
+On‑prem control with edge‑class performance. Match density and cooling to your workload and climate, then expand in modular steps with predictable TCO. Commissioned with FAT in factory and SAT on site.
+
+[
+
+Request partner pack
+
+](/contact-us)
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6905dfa513631c36fadbe6f2_Group%2011455.svg)
+
+## How modular data center design drives results  
+
+### Resilience and  
+on‑prem control
+
+Designed to meet Tier III-IV principles with integrated power/UPS, cooling, fire suppression, monitoring, and access/CCTV. Factory‑tested (FAT) and verified on site (SAT). Environmental hardening and vibration tolerance; optional EMP shielding.
+
+![Industrial workspace with two mounted monitors above stainless steel workbenches along a gray paneled wall.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6905e194472ce98a74fe8b57_Rectangle%20806.avif)
+
+### Performance matched to workload and climate 
+
+Configure 5-150 kW per rack with flexible modular data center cooling systems (DX, chilled-water, adiabatic, free-cooling) for predictable efficiency in any region.
+
+![Close-up of server racks with network cables and green indicator lights in a data center.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6905e19472850393a0d40417_Rectangle%20806-1.avif)
+
+### Predictable TCO and modular growth
+
+Standard 20- and 40-ft data center containers with redeployable footprints. Expand capacity as demand grows - typical containerized modular data center builds complete in 3–6 months.  
+
+![Industrial area with several gray shipping containers on a paved surface, yellow autumn leaves on grass and a tree in the foreground.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691ca9b4b541f55337675a74_Rectangle%20806.avif)
+
+# Contact Us
+
+## Get your configuration – Fast path to sizing
+
+Answer a few questions and receive an indicative configuration matched to your workload, climate, and site constraints.
+
+E-mail
+
+Company / Organization
+
+Project stage
+
+Ready to DeployExploringPlanning
+
+Rack number
+
+Target
+
+Ambient/climate
+
+Hot dry (desert)TemperateHot humid (tropical)Cold (arctic / sub-zero)Mixed seasonal (wide swings)High altitudeCoastal / high salt exposure
+
+Site constraints
+
+DustSandhumidity, vibration
+
+Power source
+
+GridGensetRenewables
+
+Redundancy priorities
+
+Your information is processed securely and will only be used to respond to your inquiry.
+
+[
+
+Submit
+
+](#)
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+## Real deployments, real constraints
+
+[
+
+More Case Studies
+
+](/case-study)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab2c7b4dceceb3a559de_Rectangle%20799.jpg)
+
+### Shielded Modular Data Center (EMP/IEMI Protection)
+
+Fully shielded modular enclosure with verified Faraday-grade protection, EMP-rated SPDs, and concurrent-maintainable power/cooling for sensitive workloads.
+
+[
+
+Read the case study
+
+](/case-study/shielded-modular-data-center-emp-iemi-protection)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab3d52224142f6d1d1c4_Rectangle%20815.jpg)
+
+### Public-Sector Modular Data Center (Energy-Efficient, Relocatable Build)
+
+Two joined 40-ft containerized data centers hosting up to 120 kW IT load, combining hybrid free-cooling with DX systems for Tier III resilience and low OPEX.
+
+[
+
+Read the case study
+
+](/case-study/public-sector-modular-data-center-energy-efficient-relocatable-build)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab4ede6fc418c5c13939_Rectangle%20816.jpg)
+
+### Modular Data Centers for National Road-Traffic Video Capture Infrastructure
+
+Two-site, four-module complex providing 320 kW total IT load, N+1 power and cooling, and full data replication for nationwide traffic-violation analytics.
+
+[
+
+Read the case study
+
+](/case-study/modular-data-centers-for-national-road-traffic-video-capture-infrastructure)
+
+## Use cases
+
+Designed to meet Tier III-IV principles with integrated power/UPS, cooling, fire suppression, and access/CCTV. Factory‑tested and verified on site (SAT). Environmental hardening and vibration tolerance; optional EMP shielding.
+
+### ENERGY AND O&G  
+(REMOTE SUBSTATIONS, PADS)
+
+![Offshore oil rig platform with cranes in the ocean and a supply boat nearby.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6906448d741d223fa0d66f48_Rectangle%201684-2.avif)
+
+Low‑latency analytics and control on harsh sites with dust/humidity hardening and vibration tolerance; redeployable footprint.
+
+### MINING  
+(PIT AND PLANT)
+
+![Large mining excavator with conveyor belt and beige industrial container in a sandy quarry.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6906448dd18ebee5ec88ea84_Rectangle%201684-1.avif)
+
+Edge processing for sorting/vision and telemetry; ruggedized cooling for heat and dust.
+
+### INDUSTRIAL AUTOMATION AND ROBOTICS
+
+![Automated warehouse with orange robotic arm loading boxes onto blue autonomous mobile robots on the floor between tall shelves.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6906448d7c06134829d6c343_Rectangle%201684.avif)
+
+Real‑time control and QA near the line; power/ cooling matched to workload and climate; designed to support Tier I–IV reliability levels, matching each project’s required balance of uptime and cost.
+
+### TELECOM  
+5G EDGE
+
+![Close-up of network patch panel with numerous yellow fiber optic cables connected to green ports.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6906448df607b61b1c8ad6e9_Rectangle%201684-5.avif)
+
+Density for vRAN/MEC close to users; predictable PUE with DX/chilled‑water/adiabatic/free‑cooling options.
+
+### RENEWABLES (WIND/SOLAR/HYDRO)
+
+![Wind turbines on hills under a partly cloudy sky near utility buildings and power lines.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6906448d96a2df8ce941077c_Rectangle%201684-4.avif)
+
+Monitoring and predictive maintenance with on‑prem control; modules sized for constrained pads and remote access.
+
+### LOGISTICS  
+AND PORTS
+
+![Shipping containers stacked at a port with cranes and machinery under an overcast sky.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6906448c13480ea50434d4d6_Rectangle%201684-3.avif)
+
+Computer‑vision and IoT ingestion at the perimeter; integrated power, cooling, fire, monitoring, and access/CCTV.
+
+## How We Shape Your Data Center Together
+
+01
+
+### DEFINE YOUR NEEDS
+
+You share workloads, environment, and required reliability level (Tier I–IV). Together we define a technical brief for your modular data center that capturing power, cooling, security, and space constraints.  
+
+![Two men studying and sketching a rectangular design taped on a wall covered with photos and notes.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69064b2147e9ab615848a5be_Rectangle%20799-2.avif)
+
+02
+
+### CONFIGURE YOUR MODULE
+
+We translate your needs into a tailored design. You can choose from all-in-one or separate IT, power, and cooling blocks; specify rack sizes; airflow direction;
+
+![Technical blueprint showing top and side views of a server room layout with labeled units including network rack, server racks, UPS, air conditioning units, PDU, electrical distribution boards, fire alarm control unit, and gas extinguishing cylinder.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69064b211d54f074c1cbb537_Rectangle%20815-1.avif)
+
+03
+
+### ALIGN SITE REQUIREMENTS
+
+We provide detailed specs for site preparation: power feeds, fiber optics, water/cooling loops, and access points. This ensures a seamless plug-and-play connection when your data center container arrives on-site.  
+
+![Construction site with steel framework, vehicles, equipment, and workers on a concrete foundation.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69064b2211ff9359418777e9_Rectangle%20816.avif)
+
+04
+
+### BUILD AND TEST IN FACTORY
+
+Your modules are manufactured, equipped, and fully integrated with UPS, cooling, fire suppression, and monitoring. Before shipment, we run complete acceptance tests, so reliability is proven before it leaves the factory.  
+
+![White and green modular building unit with 'MODULEDGE' logo on the side under a clear blue sky.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69064b2176ab881cffcba415_Rectangle%20799-1.avif)
+
+05
+
+### DEFINE YOUR CONNECT
+
+Modules are transported on public roads (within standard dimensions), placed on your site, and connected to external utilities. No complex on-site build is needed.  
+
+![Man with a ponytail standing in a dark server room working on a laptop.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69064b211e665788c3ff2e8e_Rectangle%20799.avif)
+
+06
+
+### COMMISSION AND HANDOVER
+
+Final testing happens in your environment, and we hand over a documented, monitored, and operator-ready MDC — with the resilience and customization agreed at step one.  
+
+![Engineer wearing a yellow hard hat and safety vest inspecting controls inside an open electrical transformer station.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69064b22219723dd1824d873_Rectangle%20815.avif)
+
+[
+
+Book a 30-min design review
+
+](/contact-us)
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [Custom Modular Data Center Design & Engineering | ModulEdge](https://www.moduledge.com/customization)
+
+# Eastern Europe
+
+## Built Around Your Site – Not Around Ours
+
+Fully shielded modular enclosure with verified Faraday-grade protection, EMP-rated SPDs, and concurrent-maintainable power/cooling for sensitive workloads.
+
+[
+
+Book a 30-min call
+
+](/contact-us)
+
+![Technical drawing of a modular container equipped with external ventilation units and access stairs.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69284abb5eb5825edcff7dae_modul1.avif)
+
+## Why Customization Matters
+
+*   Traditional data‑center models force you to adapt your project to someone else’s template. ModulEdge reverses that logic.
+*   Each module is a bespoke engineering object – designed to your grid capacity, climate, and regulatory envelope.
+
+## Benefits at a glance
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69074546c46040c9b1d7748b_4.svg)
+
+Predictable uptime, because design starts from site constraints.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d51100bd1e17fb872bb55_Group%2012344.svg)
+
+Verified environmental and mechanical fit before fabrication..
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5110b583621f5bcd7efe_Group%2012345.svg)
+
+Use Lower total cost of deployment by removing civil‑works waste.case
+
+## Core Areas You Can Specify
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/690745f78ef4cc2a27b21386_2.svg)
+
+### Structure and Layout
+
+*   ISO or custom footprints (6 m – 14 m) with optional vestibule or operator zone.
+*   Dedicated Power, IT, Cooling, or Meet‑Me Room modules — or an All‑in‑One build.
+*   Anti‑vibration mounting for mobile or seismic sites.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69074602e02d9505305aa482_1.svg)
+
+### Power Systems
+
+*   Redundancy levels N / N+1 / 2N, designed to meet Tier III principles.
+*   Dual utility or generator feeds with ATS.
+*   UPS scope selectable: IT‑only, shared, or cooling‑dedicated.
+*   AC, DC, or hybrid distribution; autonomy defined at intake.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/690745e9df45f142c625c28c_2.svg)
+
+### Cooling Systems
+
+*   Air, in‑row, or hybrid topologies.
+*   Free‑cooling packages for mild climates; economizer integration.
+*   Zoned thermal management up to 50 kW/rack.
+*   Continuous cooling loops for high‑availability environments.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/690745e921ac2617e79a1142_3.svg)
+
+### Environmental
+
+*   Dust, sand, and humidity sealing per ISO 14644 / IEC 60529.
+*   Tested for −40 °C to +55 °C ambient conditions.
+*   Optional EMP/EMI shielding aligned with MIL‑STD‑188‑125‑1.
+*   FK‑5‑1‑12 or inert gas fire suppression; multi‑zone detection.
+
+## Validation and Monitoring
+
+### — In-Factory Testing
+
+Each customized system is built and tested in‑factory before shipping.
+
+### — Site Verification (SAT)
+
+Site Acceptance Test verifies operation after commissioni
+
+### — Factory Validation
+
+Factory Acceptance Test covers electrical load, cooling balance, and safety integration.
+
+### — Monitoring & Control
+
+Standarts: Modbus, SNMP, BACnet, REST API — ready for any DCIM/BMS environment.
+
+## Designed for Engineers, Proven in action
+
+*   Integrated CAD / CFD design validation.
+*   Optional Uptime design‑review support.
+*   Full MEP drawing set and FAT/SAT documentation.
+*   CE and IEC compliant.
+
+‍
+
+Outcome: a field‑ready system that matches your specification, not just your budget.
+
+## Customization Workflow
+
+01
+
+### Design Intake
+
+Power envelope, redundancy, and climate data.
+
+02
+
+### Engineering Review
+
+Mechanical, electrical, and control schematics.
+
+03
+
+### Design Approval
+
+3D layout + BoM sign‑off.
+
+04
+
+### Factory Build & FAT
+
+4–6 months from design lock.
+
+05
+
+### Delivery & SAT
+
+Transport, commissioning, and training.
+
+Let’s Build Together
+
+## Ready to start your design review?
+
+Ready to discuss your project? Our engineers will tailor the setup to your exact environment and power needs.
+
+[Contact Partnership Team](/contact-us)[
+
+Download Custom Specs PDF
+
+](/contact-us)
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [ModulEdge Partner Program | White-Label & Integrator Solutions](https://www.moduledge.com/partner-program)
+
+# Partner Program
+
+## Partner with ModulEdge — White‑Label Modular Data Centers
+
+Deliver enterprise‑grade infrastructure without production investment. We design, build, and test — you brand, sell, and scale.
+
+[
+
+Become a partner
+
+](/contact-us)
+
+![3D wireframe model of a rectangular house structure with pitched roof and front porch.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69284abca5afa04de1bb931d_modul2.avif)
+
+## The Opportunity
+
+*   Global demand for edge computing and localized data infrastructure is accelerating.
+*   Modular data centers are the fastest route for partners to tap this demand.
+*   Enterprises and governments want faster deployments, lower CAPEX, and flexible capacity.
+
+## Market signals
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5876492cf2bf69eb1a5b_Group%2012308.svg)
+
+Growing investments in AI inference, 5G, IoT, and sovereign data networks.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d587622e5ae2a1295c5d1_Group%2012309.svg)
+
+Shift from multi‑year construction to 4–6‑month modular builds.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5876a34a489682eee243_Group%2012310.svg)
+
+Increased appetite for regional, branded data‑center offerings.
+
+## Why Partner with ModulEdge
+
+### —  Speed
+
+Deploy customer projects in weeks, not years. Factory‑built systems with proven QA shorten every sales cycle.
+
+### — Customization
+
+20‑ft and 40‑ft units fully tailored — power, cooling, racks, and IT gear matched to site or workload.
+
+### — White Label Freedom
+
+Resell under your brand. Integrate into your existing portfolio or managed‑ service offer.
+
+### — Margin Flexibility
+
+Transparent cost base means you control markup and pricing.
+
+## Our Value to Partners
+
+*   No R&D or production overhead — we handle engineering and manufacturing.
+
+*   Optional joint marketing and enablement support.
+*   Enterprise‑grade credibility backed by European QA and FAT/SAT testing.
+*   Competitive pricing leaves space for healthy partner margin.
+*   Plug‑and‑play addition to your infrastructure portfolio.
+
+![Gray shipping containers on a paved lot with yellow autumn leaves on the ground and tree in the foreground under a cloudy sky.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69077d50796517992b656f4f_Rectangle%201697.avif)
+
+## What You Can Offer Clients
+
+### — Standard footprints
+
+20‑ft and 40‑ft containerized MDCs.
+
+### — Configurable specs
+
+Power density (5–50 kW/rack), cooling method, fire suppression, security.
+
+### — Specialized builds
+
+Containerized edge GPU / AI pods for inference workloads.
+
+### — Support package
+
+Design assistance, logistics, FAT/SAT documentation, compliance kit.
+
+## How White‑Label Works
+
+01
+
+### Brand Setup
+
+Your brand, your packaging, your pricing.
+
+02
+
+### Production
+
+ModulEdge manufactures to your agreed specification.
+
+03
+
+### White Label Resale
+
+You resell or integrate under your identity — ModulEdge stays invisible to the end-client.
+
+04
+
+### Delivery & Support
+
+Seamless documentation handover and optional joint support.
+
+### Outcome
+
+You expand your portfolio without adding factories, staff, or risk.
+
+## Why Partners Choose ModulEdge
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d590a419df272e38bd785_Group%2012349.svg)
+
+### Agility
+
+Small enough to customize fast, large enough to deliver globally.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d590afeda2dd4117af001_Group%2012350.svg)
+
+### Neutrality
+
+Partner‑first — we don’t compete for your clients.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d590933aaebcc287b01dd_Group%2012348.svg)
+
+### Exclusivity
+
+Regional partner priority available.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d590a529732b83137f671_Group%2012347.svg)
+
+### Proven capability
+
+Operating deployments in energy, government, and telecom.
+
+## Partner Process
+
+01
+
+### Onboard
+
+NDA, partner agreement, sales collateral package.
+
+02
+
+### Co‑Design
+
+Align specs with target customer needs.
+
+03
+
+### Quotation
+
+Transparent base cost; you define margin.
+
+04
+
+### Delivery
+
+Production, testing (FAT/SAT), logistics.
+
+05
+
+### After‑Sales
+
+Optional joint maintenance or training.
+
+## Revenue Model
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5953668a956f0f3ba501_Group%2012351.svg)
+
+### Lifecycle flexibility
+
+You set pricing to your market.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5953a34a489682eefdac_Group%2012352.svg)
+
+### Recurring revenue
+
+Via maintenance, upgrades, and monitoring contracts.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5953e6472d3ba2b49aab_Group%2012353.svg)
+
+### Upsell opportunities
+
+IT gear, GPUs, or managed services.
+
+Let’s Build Together
+
+## Become a ModulEdge Partner.
+
+*   Sign your NDA and partner agreement.
+*   Get demo specs and pricing.
+*   Co‑create your first white‑label MDC offer.
+
+[Contact Partnership Team](/contact-us)[
+
+Download Custom Specs PDF
+
+](/contact-us)
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [About ModulEdge | Modular Data Center Manufacturer & Engineering Team](https://www.moduledge.com/about)
+
+# Engineered in Europe. Proven in extreme conditions.
+
+ModulEdge designs and manufactures modular data centers that deliver reliable, high-density compute exactly where it’s needed — on-site, on the edge, and under real-world constraints.
+
+ 
+
+## Engineering control and resilience into every environment.
+
+Founded in 2015, ModulEdge brings together engineers and data-center specialists with a decade of hands-on modular build experience across Europe, MENA, and Central Asia.
+
+Our approach was born from early lessons: prefab containers alone couldn’t meet the demands of modern workloads. We rebuilt the idea from the ground up — designing true modular data centers with integrated power, cooling, and protection systems fit for the edge.
+
+Today, we combine European engineering discipline with field-tested adaptability.
+
+![White industrial container with four large ventilation fans and an open door, situated outdoors near a green generator and industrial buildings.](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/69078fcb8ccc7c92cae9784f_Rectangle%201697.avif)
+
+## Our purpose
+
+To make critical compute available anywhere — without compromise on reliability, privacy, or efficiency.
+
+## Our principles
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/690745f159918a65f70819c7_1.svg)
+
+### Engineered integrity
+
+Every module is designed and built to perform under pressure — from industrial zones to remote deserts.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5d8ada1684e2fdca9557_Group%2012361.svg)
+
+### Customization as a standard
+
+No two sites are alike. Every design adapts to power, climate, and compliance demands.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5d8ada9b284fcad0169a_Group%2012360.svg)
+
+### Proof before promise
+
+Every build undergoes full FAT/SAT before shipment.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5d8ac24aed8eda531c86_Group%2012359.svg)
+
+### Partnership first
+
+We succeed through OEM and system-integrator partners — never in isolation
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5d8a077ab8bf3cd77e43_Group%2012358.svg)
+
+### Transparency
+
+We state capabilities as they are: designed to meet Tier III principles, not overclaimed certifications.
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/691d5d8aae7c6fcb2a3147fa_Group%2012357.svg)
+
+### Global service assurance
+
+Through partnerships with leading global providers of power and cooling infrastructure, we enable technical support and spare-part coverage anywhere our modules are deployed.
+
+## Our footprint
+
+### — Czech Republic
+
+Headquarters
+
+### — Deployments
+
+Over 30 deployments delivered across 8 countries.
+
+### — Ukraine
+
+Manufacturing and assembly
+
+### — Certifications
+
+Designed to meet Tier III principles; \[Any other specific ISO, quality, or environmental standards\].
+
+### — Uzbekistan, Ukraine,Kazakhstan
+
+Sales and partner presence
+
+## What we Serve
+
+Sector
+
+Typical use case
+
+Why ModulEdge
+
+### Telecom & 5G
+
+ISO‑standard modular cluster (Type S)
+
+Low-latency, scalable modules
+
+### Energy / Utilities
+
+Remote asset control, automation
+
+Ruggedized, vibration-tolerant builds
+
+### Public Safety / Smart City
+
+Video analytics, CCTV, sensor networks
+
+Hardened, secure, compact
+
+### Government / Critical Infrastructure
+
+Sensitive data processing
+
+Optional EMP shielding and on-prem isolation
+
+### Industrial & Mining
+
+Local control rooms, AI inference
+
+Free-cooling & high-density racks
+
+![](https://cdn.prod.website-files.com/6903664f10a0a83e422c7d3c/6907ac9ea57558ad3371b625_photo_2025-11-02%2016.19.44%201.avif)
+
+> “We don’t sell boxes. We build reliability in places where it’s usually optional.”
+
+Michal Šiler, СЕО
+
+Let’s Build Together
+
+## Ready to start your design review?
+
+We believe the future of infrastructure is modular, local, and accountable. Each ModulEdge system is built to last — engineered, tested, and supported with the discipline of a data-center company, not a metal-box fabricator.
+
+[Contact Our Team](/contact-us)[
+
+Download Our Specs PDF
+
+](/contact-us)
+
+---
+
+## [ModulEdge | Case Studies](https://www.moduledge.com/case-study)
+
+# Case Studies
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab2c7b4dceceb3a559de_Rectangle%20799.jpg)
+
+### Shielded Modular Data Center (EMP/IEMI Protection)
+
+Fully shielded modular enclosure with verified Faraday-grade protection, EMP-rated SPDs, and concurrent-maintainable power/cooling for sensitive workloads.
+
+[
+
+Read the case study
+
+](/case-study/shielded-modular-data-center-emp-iemi-protection)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab3d52224142f6d1d1c4_Rectangle%20815.jpg)
+
+### Public-Sector Modular Data Center (Energy-Efficient, Relocatable Build)
+
+Two joined 40-ft containerized data centers hosting up to 120 kW IT load, combining hybrid free-cooling with DX systems for Tier III resilience and low OPEX.
+
+[
+
+Read the case study
+
+](/case-study/public-sector-modular-data-center-energy-efficient-relocatable-build)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab4ede6fc418c5c13939_Rectangle%20816.jpg)
+
+### Modular Data Centers for National Road-Traffic Video Capture Infrastructure
+
+Two-site, four-module complex providing 320 kW total IT load, N+1 power and cooling, and full data replication for nationwide traffic-violation analytics.
+
+[
+
+Read the case study
+
+](/case-study/modular-data-centers-for-national-road-traffic-video-capture-infrastructure)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906ba7dff3e72eab54b911a_image%20290.avif)
+
+### Mobile All‑in‑One MDC on Wheeled Platforms
+
+40-ft containerized data center with six racks (40 kW) on wheeled platforms, relocatable within one hour through pre-staged quick-disconnect systems.
+
+[
+
+Read the case study
+
+](/case-study/mobile-all-in-one-mdc-on-wheeled-platforms)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b5e1354cf7990fecdaf0_image%20289.avif)
+
+### Deployable Edge Data Center for International Mission in Eastern Europe
+
+ISO-width modular cluster delivering 40 kW across four racks for a temporary security mission, built to Tier III principles and redeployable at mission end.
+
+[
+
+Read the case study
+
+](/case-study/deployable-edge-data-center-for-international-mission-in-eastern-europe)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b0704e6d52be9c9f53cd_Indirect%20Free%20Cooling%20MDC%20in%20Dense%20Urban%20Courtyard%20.avif)
+
+### Indirect Free Cooling MDC in Dense Urban Courtyard
+
+Two shortened modules providing 35 kW IT load with indirect free-cooling, engineered to pass through a narrow archway and operate inside a historic courtyard.
+
+[
+
+Read the case study
+
+](/case-study/indirect-free-cooling-mdc-in-dense-urban-courtyard)
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [Contact ModulEdge | Custom Modular Data Center Experts](https://www.moduledge.com/contact-us)
+
+# Contact Us
+
+## Get in Touch with ModulEdge
+
+Whether you are exploring modular data centers, seeking a strategic partner, or looking to deploy AI-ready infrastructure, our engineering and commercial teams are here to support you.
+
+Please complete the form below, and the right specialist will contact you shortly.
+
+We respond within 24 hours. All inquiries are confidential and under NDA by default.
+
+Name
+
+Company / Organization
+
+Phone
+
+E-mail
+
+Purpose of Inquiry
+
+Request pricing or technical specificationsSchedule a consultation/demoGeneral inquiry/Ask a questionRequest a quote for a specific projectPartner/Vendor InquiryCareers/Employment InquiryMedia/Press Inquiry
+
+Region
+
+North AmericaEuropeAsia-Pacific (APAC)Latin America (LATAM)Middle East & Africa (MEA)Global/Other
+
+Redundancy priorities
+
+Your information is processed securely and will only be used to respond to your inquiry.
+
+[
+
+Submit
+
+](#)
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [Privacy Policy](https://www.moduledge.com/privacy-policy)
+
+# Privacy Policy
+
+‍
+
+**Last updated:** 01.11.2005
+
+## **1\. Controller**
+
+ModulEdge s.r.o.  
+Vodní 52/3, 767 01 Kroměříž, Czech Republic  
+ID No.: 17976588  
+Represented by Bc. Michal Šiler, Managing Director
+
+## **2\. Scope**
+
+This Privacy Policy describes how ModulEdge s.r.o. processes personal data when users visit the website, contact the company, or interact with forms, inquiries, or marketing materials.
+
+## **3\. Categories of Personal Data**
+
+We may process the following categories of data:
+
+*   Identification and contact details (name, email, phone, company).
+*   Communication content sent to us.
+*   Technical data (IP address, browser type, device type, access logs).
+*   Cookies and analytics data.
+*   Data required to prepare or negotiate a commercial offer.  
+      
+    
+
+We do not intentionally collect sensitive personal data.
+
+## **4\. Legal Basis for Processing**
+
+We process personal data on the following bases:
+
+*   Performance of a contract or pre-contractual steps.
+*   Legitimate interest, such as improving the website, security, and marketing to relevant business clients.
+*   Compliance with legal obligations.
+*   User consent when required (cookies, marketing subscriptions).  
+      
+    
+
+## **5\. Purpose of Processing**
+
+Personal data is used to:
+
+*   Respond to inquiries or contact requests.
+*   Prepare commercial offers for modular data centers.
+*   Provide marketing or technical information when requested.  
+      
+    
+*   Improve the website and analyze usage.
+*   Maintain security and prevent misuse.
+*   Meet regulatory or tax obligations.
+
+## **6\. Cookies and Analytics**
+
+The website may use cookies necessary for functionality and optional analytics tools. Where required, consent is requested through a cookie banner.
+
+Users may disable cookies in their browser settings.
+
+## **7\. Data Storage and Retention**
+
+Personal data is stored only for the period necessary to fulfill the purposes listed above.
+
+*   Inquiry and commercial correspondence is retained for the duration of negotiations and up to five years after.
+*   Technical logs are typically stored for several months, unless required longer for security.
+*   Data processed on the basis of consent is retained until withdrawal.
+
+## **8\. Data Sharing**
+
+Personal data may be shared with:
+
+*   Hosting, IT, and analytics providers.
+*   Contractual partners involved in preparing or delivering modular data center solutions.
+*   Legal or governmental authorities when required by law.
+
+We do not sell personal data.
+
+Data may be transferred outside the EU only when adequate safeguards are in place.
+
+## **9\. User Rights under GDPR**
+
+Users have the following rights:
+
+*   Access to personal data.
+*   Rectification of inaccurate data.
+*   Erasure of data where applicable.
+*   Restriction of processing.
+*   Objection to processing based on legitimate interest.
+*   Portability of data.  
+      
+    
+*   Withdrawal of consent at any time.
+
+Requests can be sent to the email provided above. The controller responds within one month.
+
+## **10\. Security Measures**
+
+We implement technical and organizational measures to protect personal data against loss, misuse, unauthorized access, and disclosure. These include encryption, access controls, and secure hosting.
+
+## **11\. Minors**
+
+The website is not intended for children under 16. We do not knowingly collect minors' data.
+
+## **12\. Changes to the Policy**
+
+Updates to this Privacy Policy will be published on the website with a new effective date.
+
+## **13\. Contact**
+
+For any privacy-related questions or exercising rights:  
+Email: m.siler@moduledge.com  
+Address: ModulEdge s.r.o., Vodní 52/3, 767 01 Kroměříž, Czech Republic.
+
+‍
+
+---
+
+## [Terms & Conditions](https://www.moduledge.com/terms-conditions)
+
+# Terms & Conditions
+
+‍
+
+**Last updated:** 01.11.2005  
+**Operator:** ModulEdge s.r.o., Vodní 52/3, 767 01 Kroměříž, Czech Republic  
+ID No.: 17976588, VAT No.: CZ17976588  
+Represented by Bc. Michal Šiler, Managing Director
+
+## **1\. Scope of these Terms**
+
+These Terms govern the use of the website operated by ModulEdge s.r.o. and any related online services provided through it. By accessing or using the website, the user agrees to these Terms. If the user does not agree, the website may not be used.
+
+## **2\. Purpose of the Website**
+
+The website provides information about custom modular data centers, products, services, and the company. All content is for informational and marketing purposes and does not constitute a binding commercial offer unless explicitly stated.
+
+## **3\. Intellectual Property**
+
+All content on the website, including text, graphics, trademarks, logos, images, technical descriptions, and documents, is owned by ModulEdge s.r.o. or its licensors. Users may not copy, modify, distribute, or use the content without written permission.
+
+## **4\. User Obligations**
+
+Users agree not to misuse the website, attempt to hack, disrupt, scrape, or otherwise tamper with technical infrastructure. Users must not submit illegal, misleading, or harmful content through forms or communication channels.
+
+## **5\. Product and Service Information**
+
+Technical specifications, pricing, and availability of products may change without prior notice. All commercial relationships are governed by separate written contracts or purchase agreements. No information on the website substitutes formal contractual terms.
+
+## **6\. Limitation of Liability**
+
+The website is provided “as is”. ModulEdge s.r.o. does not guarantee uninterrupted availability or error-free operation. The company is not liable for:
+
+*   damages arising from the use or inability to use the website,
+*   accuracy or completeness of presented information,
+*   third-party content or external links.  
+    This applies to the extent allowed by applicable law.
+
+## **7\. External Links**
+
+The website may link to external websites. ModulEdge s.r.o. is not responsible for their content, accuracy, or data processing practices.
+
+## **8\. Data Processing**
+
+Use of personal data follows the Privacy Policy, which forms part of these Terms.
+
+## **9\. Changes to the Terms**
+
+ModulEdge s.r.o. may amend these Terms. Updated versions will be posted on the website with the effective date. Continued use of the website indicates acceptance.
+
+## **10\. Governing Law and Jurisdiction**
+
+These Terms are governed by Czech law. Any disputes shall be resolved by courts of the Czech Republic.
+
+## **11\. Contact**
+
+For questions regarding these Terms:  
+Email: m.siler@moduledge.com  
+Address: ModulEdge s.r.o., Vodní 52/3, 767 01 Kroměříž, Czech Republic.
+
+---
+
+## [Deployable Edge Modular Data Center for Field Missions](https://www.moduledge.com/case-study/deployable-edge-data-center-for-international-mission-in-eastern-europe)
+
+Eastern Europe
+
+# Deployable Edge Data Center for International Mission in Eastern Europe
+
+ISO-width modular cluster delivering 40 kW across four racks for a temporary security mission, built to Tier III principles and redeployable at mission end.
+
+[
+
+Book a 30-min call
+
+](/contact-us)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b5e1354cf7990fecdaf0_image%20289.avif)
+
+## Context
+
+In 2017, an international security mission operating in Ukraine needed a reliable IT backbone to support time‑boxed operations. Leadership required high availability and concurrent maintainability but expected to remain in‑country only 3–5 years – making building renovations or permanent plant economically unsound.
+
+## At a glance
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b101a6134b9d94ca16af_2.svg)
+
+### Use case
+
+Secure, temporary edge compute adjacent to HQ offices
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b15efedc11546287aff1_6.svg)
+
+### Transport & siting
+
+ISO‑width (road‑legal – no oversize permits).
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1144f7d87999d59e328_3.svg)
+
+### Outcome
+
+Enterprise-grade resilience designed to meet Tier III principles without permanent civil works; fully redeployable at end of mission
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1467bfc8248316789fc_5.svg)
+
+### Why modular
+
+Avoids stranded CAPEX in leased buildings; predictable scope, faster stand‑up vs. brick‑and‑mortar; re‑usable asset
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1467bfc8248316789fc_5.svg)
+
+### Customer
+
+International security mission, Eastern Europe (anonymized)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1467bfc8248316789fc_5.svg)
+
+### Time‑to‑deploy
+
+~5 months from requirements capture to handover
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b13089d1f83fb48b17df_4.svg)
+
+### IT capacity
+
+Up to 40 kW across four racks
+
+## Challenges
+
+### Temporary footprint
+
+Infrastructure had to be non‑permanent and redeployable.
+
+### Urban deployment
+
+Installation site was adjacent to rented office space in a dense city environment.
+
+### Regulatory constraints
+
+Transport had to comply with road regulations.
+
+### Business continuity
+
+Mission‑critical IT workloads demanded concurrent‑maintainable power/cooling, fire suppression, and access control.
+
+## Solution
+
+ModulEdge delivered a Type S modular data center as a cluster of ISO‑standard modules. Each unit stayed within 2,438 mm (8‑ft) ISO width, enabling standard road transport.
+
+The cluster was placed beside the rented office to minimize latency, integrate with the existing security perimeter, and simplify facilities access.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b7899e2deb54ccf841f9_Group%2011743.avif)
+
+## Key features
+
+### — IT capacity
+
+Up to 40 kW across four racks (3× 42U 600 mm server + 1× 42U 800 mm telecom rack)
+
+### — Power
+
+Modular UPS with ~10‑minute battery autonomy; 2N power distribution for concurrent maintainability.
+
+### — Site flexibility
+
+Can be installed on unprepared sites; compatible with protective measures (e.g., Hesco barriers, below‑grade placements) where security policy requires.
+
+### — Deployability
+
+Modules designed and documented for disassembly, road transport, and re‑installation in a new host country at mission end.
+
+### — Safety & security
+
+Automatic clean‑agent fire suppression; CCTV and role‑based access control integrated with the mission’s security stack.
+
+### — Deployability
+
+Modules designed and documented for disassembly, road transport, and re‑installation in a new host country at mission end.
+
+### — Operations & monitoring
+
+Integrated alarms and environmental monitoring for remote oversight by the mission IT team.
+
+## Custom engineering
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b82423b00f56b0ad15a4_1.svg)
+
+### Dock‑on corridor module
+
+The  cold‑aisle walkway ships detached to keep each unit within the ISO road‑legal 2,438 mm width. On site, it docks to the IT module to provide full hot/cold containment and ergonomic clearances, while preserving standard‑cargo logistics during transport.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### MEP quick‑connects
+
+Pre‑engineered mechanical/electrical couplers enable safe, fast mating/demating of the corridor without field fabrication.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Urban logistics ready
+
+The split design and custom sizes reduces permit/escort requirements and allows navigation through dense city streets and under standard overpasses – supporting low‑visibility redeployments.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### UIP/know‑how
+
+The docking‑corridor approach is patented, reflecting long‑running local engineering for constrained‑route transport.
+
+## Results
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b199e1097d94d375c729_1.svg)
+
+### Capital efficiency
+
+Avoided sunk CAPEX in leased building infrastructure; MDC remains a reusable asset.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1d6df45f142c6191310_4.svg)
+
+### Operational assurance
+
+Resilience designed to meet Tier 3 principles for security, communications, and logistics workloads.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### Lifecycle flexibility
+
+At mission close, MDCs were dismantled and redeployed, preserving donor investment.
+
+## Specs snapshot
+
+### Racks
+
+3× 42U 600 mm +  
+1× 42U 800 mm
+
+### IT load
+
+up to 40 kW  
+total (this project)
+
+### Cooling
+
+In‑row DX with containment;  
+humidity control
+
+### Power path
+
+2N distribution;  
+UPS autonomy ~10 minutes
+
+### Fire & safety
+
+Clean‑agent fire suppression;  
+monitoring & alarms
+
+### Security/monitoring
+
+CCTV, access control,  
+audit logging
+
+## Business value and fit
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b9564e6d52be9ca00ba2_1.svg)
+
+### Value
+
+Reusable asset that avoids stranded CAPEX; option sets for energy efficiency (where climate permits) to improve PUE while meeting resilience targets.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1d6df45f142c6191310_4.svg)
+
+### Ideal for
+
+Leased or short‑term sites; urban deployments with road‑permit sensitivity; missions needing concurrent‑maintainable capacity and a clear exit plan.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b97299eda15c2bf9914d_3.svg)
+
+### Partner lens
+
+ISO width simplifies staging/warehousing/last‑mile; documentation and clean handover artifacts enable fast enablement and first‑line support; scope is bundle‑ready with upstream IT and security stacks.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### Not ideal for
+
+Long‑term campuses planning high‑density AI training clusters (120–150 kW/rack) or very large estates where traditional data halls are more economical.
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [Indirect Free-Cooling Modular Data Center for Urban Edge Environments](https://www.moduledge.com/case-study/indirect-free-cooling-mdc-in-dense-urban-courtyard)
+
+Eastern Europe
+
+# Indirect Free Cooling MDC in Dense Urban Courtyard
+
+Two shortened modules providing 35 kW IT load with indirect free-cooling, engineered to pass through a narrow archway and operate inside a historic courtyard.
+
+[
+
+Book a 30-min call
+
+](/contact-us)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b0704e6d52be9c9f53cd_Indirect%20Free%20Cooling%20MDC%20in%20Dense%20Urban%20Courtyard%20.avif)
+
+## Context
+
+The client required a resilient on‑prem compute adjacent to their HQ yet could not renovate the historic building or place equipment street‑side.
+
+The only feasible location was a walled inner courtyard accessed via a narrow archway – imposing strict limits on module length and height while keeping standard width for road logistics. Energy efficiency was a procurement priority, with preference for “green” operation during the region’s long cool season.
+
+## At a glance
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b0eb69747d13e80474a3_1.svg)
+
+### Customer
+
+Government entity, Eastern European capital (anonymized)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b101a6134b9d94ca16af_2.svg)
+
+### Use case
+
+Energy‑efficient edge compute in a constrained, inner‑courtyard site
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1144f7d87999d59e328_3.svg)
+
+### Outcome
+
+Tier III ready MDC with indirect free‑cooling provides energy savings during the cold/cool seasons
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b13089d1f83fb48b17df_4.svg)
+
+### IT capacity
+
+35 kW across five racks
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1467bfc8248316789fc_5.svg)
+
+### Time‑to‑deploy
+
+~5 months (design → build → FAT → commissioning)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b15efedc11546287aff1_6.svg)
+
+### Transport & siting
+
+Custom modules sized for archways and standard road‑legal width access
+
+## Challenges
+
+### Tight urban access
+
+Single access route under a low, narrow arch; limited turning radius inside the yard
+
+### Continuity
+
+High availability (concurrent‑maintainable power/cooling) with clean agent fire suppression and monitored access
+
+### Energy policy
+
+Preference for low‑OPEX cooling for most of the year
+
+### No building works
+
+Historic façade and protected utilities ruled out major civil reconstruction
+
+## Solution
+
+A two‑module MDC using indirect free cooling (IFC). Each module kept standard container width for public‑road transport but shortened overall length to pass the arch and manoeuvre within the courtyard.
+
+‍
+
+Roof structures were engineered to support dry coolers, and the mechanical/electrical plant was integrated at the factory. The MDC was placed on pads inside the courtyard, adjacent to the main building for short network runs and simplified security.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b207b8d9b340222d0a00_Group%2011743.avif)
+
+## Key features
+
+### — Siting & logistics
+
+Modules sized to clear the arch; standard width retained for road legality; yard installation with no façade reconstruction.
+
+### — Power
+
+Modular UPS providing ~10‑minute autonomy at design load; automatic transfer to on‑site generator; 2N power distribution to racks.
+
+### — Fire & safety
+
+Early‑warning smoke detection, clean‑agent fire suppression, non‑combustible interior finishes.
+
+### — Security & monitoring
+
+Role‑based access control, CCTV, environmental and plant monitoring with alerting.
+
+### — Cooling (deployed)
+
+Three cabinet CRACs with indirect liquid free‑cooling and DC‑inverter fans/compressors; N+1 redundancy.
+
+IFC mode uses ambient conditions to reject heat via roof‑mounted dry coolers without bringing outside air into the IT space.
+
+## Custom engineering
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b29e839824bb8e42330e_1.svg)
+
+### Short‑body modules
+
+Custom shorter‑than‑ISO length with structural reinforcement allowed navigation through the arch and tight inner yard.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Engineered roof & joints
+
+Purpose‑built roof with slope, load bearing for dry coolers, and weather management; joining nodes designed for precise mating and long‑term rigidity.
+
+## Results
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b199e1097d94d375c729_1.svg)
+
+### Energy efficiency
+
+IFC mode enables compressor‑off operation through much of the year in this climate, reducing electrical consumption vs. DX‑only.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b360e8ae78c8332f1f6c_22222.avif)
+
+### Urban fit
+
+Delivered resilient capacity inside a courtyard without altering the historic façade or requiring oversize transport.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### Lifecycle flexibility
+
+The MDC remains redeployable; modules can be extracted the same way they entered.
+
+## Specs snapshot
+
+### Racks
+
+5×  
+42U
+
+### IT load
+
+35 kW (this  
+deployment)
+
+### Cooling
+
+Indirect free cooling (dry coolers on roof), N+1, DC‑inverter controls
+
+### Power path
+
+2N distribution; modular UPS; ~10‑min autonomy at design load; on‑site generator integration
+
+### Fire & safety
+
+Early smoke detection; clean‑agent suppression; non‑combustible interior materials
+
+### Security/monitoring
+
+Access control, CCTV, infra & environmental telemetry with alarms
+
+## Business value and fit
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b199e1097d94d375c729_1.svg)
+
+### Value
+
+Lower OPEX during cool/cold seasons without compromising cleanliness of the white space; reusable asset that avoids stranded CAPEX in historic cores.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b360e8ae78c8332f1f6c_22222.avif)
+
+### Ideal for
+
+Dense urban sites with access constraints (archways/back‑lots).
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### Not ideal for
+
+Hot climates with limited cool months.
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [Mobile Modular Data Center on Wheels for Tactical & Field Deployments](https://www.moduledge.com/case-study/mobile-all-in-one-mdc-on-wheeled-platforms)
+
+Rapid Redeployment
+
+# Mobile All‑in‑One MDC on Wheeled Platforms
+
+40-ft containerized data center with six racks (40 kW) on wheeled platforms, relocatable within one hour through pre-staged quick-disconnect systems.
+
+[
+
+Book a 30-min call
+
+](/contact-us)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906ba7dff3e72eab54b911a_image%20290.avif)
+
+## Context
+
+Critical operations required on‑prem compute that could be moved quickly if a site became compromised – or surged to a new location when events demanded local processing. The customer wanted
+
+1.  an all‑in‑one module (no docking corridors),
+2.  road‑legal transport dimensions, and
+3.  drilled procedure to disconnect, move, and reconnect with minimal downtime
+
+## At a glance
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb00cdad7f46456d34ef_1.svg)
+
+### Customer
+
+National security / public safety organization (anonymized)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb0b2e758df565ba2368_2.svg)
+
+### Use case
+
+Stand‑by edge compute that can relocate within ~1 hour from disconnect to roll‑out
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb19b1765974f66456a4_3.svg)
+
+### Outcome
+
+All‑in‑one ISO‑container MDC mounted on wheeled platforms; high availability designed to meet Tier III principles; quick‑disconnect power and low‑voltage (LV) signaling
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb27d8a87712ab2fa131_4.svg)
+
+### Transport & siting
+
+Standard 40‑ft High Cube ISO form factor; road‑legal width; platform leveling via screw jacks
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb19b1765974f66456a4_3.svg)
+
+### Time‑to‑deploy
+
+Within hours (pre‑staged playbook)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb499eccae8417fdeea4_6.svg)
+
+### IT capacity
+
+Up to 40 kW across six 42U racks
+
+## Challenges
+
+### Mobility + readiness
+
+Stay fully operational on fixed jacks, yet be tow‑ready on short notice
+
+### Minimal site works
+
+Avoid large pads or new buildings at forward sites
+
+### Continuity
+
+Maintain concurrent‑maintainable power/cooling; protect data and physical access
+
+### Field logistics
+
+Safe, repeatable disconnect/reconnect for power and LV cabling
+
+## Solution
+
+A Mobile In‑Row MDC based on a 40‑ft High Cube ISO container, installed on wheeled platforms with integrated leveling jacks.
+
+The module operates as a stationary facility under normal conditions; when required, teams execute a pre‑staged mobility playbook (power down sequence, quick‑disconnects, jack retraction, tractor hookup) to relocate and recommission at the next site.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bbdf4283f4085fb5df10_Group%2011743.avif)
+
+## Key features
+
+### — Mobility hardware
+
+Wheeled platforms with rated jacking points; exterior quick‑connect panels for power and LV; protection for connectors during transit
+
+### — Power
+
+Modular UPS (power + battery modules in one frame) providing ~10 minutes autonomy at design load; 2N power distribution; generator‑ready
+
+### — Cooling
+
+Row‑based precision air‑conditioning with humidity control; uninterruptible air‑conditioning; N+1 on main HVAC components
+
+### — Fire & safety
+
+Automatic clean‑agent suppression; early warning detection
+
+### — Security & monitoring
+
+Access control, CCTV, infrastructure & environmental telemetry with alarms
+
+### — IT capacity
+
+Up to 40 kW across six 42U 600 mm racks
+
+## Custom engineering
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bc6786d3d43d5a3a2e8e_1.svg)
+
+### All‑in‑one envelope
+
+A single ISO body (no separable corridor) to simplify permits, loading, and field handling
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Mobility playbook
+
+Standard operating procedures with labeling and checklists for disconnect, jacking, transport, and recommissioning
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Cable architecture
+
+Pre‑engineered quick‑disconnect harnesses (power, LV) with keyed connectors; strain relief and ingress protection for repeated cycles
+
+## Results
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b199e1097d94d375c729_1.svg)
+
+### Rapid redeployment
+
+Teams executed relocation from stand‑by to tow‑ready in ~1 hour, then recommissioned at the next site using the playbook
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1d6df45f142c6191310_4.svg)
+
+### Operational continuity
+
+Concurrent‑maintainable power/cooling designed to meet Tier III principles during stationary operation
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### Field simplicity
+
+No building works at forward sites; standard road logistics
+
+## Specs snapshot
+
+### Form factor
+
+40‑ft High Cube ISO  
+container (road‑legal width)
+
+### Racks
+
+6× 42U,  
+up to 40 kW
+
+### IT load
+
+up to 40 kW  
+total (this project)
+
+### Cooling
+
+In‑row precision AC, humidity control,  
+uninterruptible AC, N+1 components
+
+### Power path
+
+2N distribution; modular  
+UPS (~10‑min autonomy); generator interface
+
+### Fire & safety
+
+Clean‑agent suppression;  
+early warning detection
+
+### Security/monitoring
+
+Access control, CCTV,  
+infra & environmental monitoring
+
+## Business value and fit
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b9564e6d52be9ca00ba2_1.svg)
+
+### Value
+
+Hour‑scale mobility with predictable procedures; reusable asset that avoids stranded CAPEX and enables surge response
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1d6df45f142c6191310_4.svg)
+
+### Ideal for
+
+Public safety, emergency response, and sensitive operations requiring quiet relocation or rapid surge compute
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b97299eda15c2bf9914d_3.svg)
+
+### Options
+
+EMP/EMI shielding available on request; environmental hardening and vibration packages available per route conditions
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### Not ideal for
+
+Large stationary campuses expecting long‑term growth or AI training clusters (120–150 kW/rack)
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [Edge Modular Data Center for National Traffic Video Capture & Analytics](https://www.moduledge.com/case-study/modular-data-centers-for-national-road-traffic-video-capture-infrastructure)
+
+Ukraine
+
+# Modular Data Centers for National Road-Traffic Video Capture Infrastructure
+
+Two-site, four-module complex providing 320 kW total IT load, N+1 power and cooling, and full data replication for nationwide traffic-violation analytics.
+
+[
+
+Book a 30-min call
+
+](/contact-us)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab4ede6fc418c5c13939_Rectangle%20816.jpg)
+
+## Context
+
+Ukraine’s national program for road-violation video capture required geographically redundant infrastructure to ingest, process, and securely store video evidence. The platform demanded low latency, local data retention, and continuous availability despite possible power or network disruptions. Conventional fixed builds would have taken years; the customer instead adopted a modular approach for speed and lifecycle flexibility.
+
+## At a glance
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb00cdad7f46456d34ef_1.svg)
+
+### Customer
+
+National security / public safety organization (anonymized)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb0b2e758df565ba2368_2.svg)
+
+### Use case
+
+Stand‑by edge compute that can relocate within ~1 hour from disconnect to roll‑out
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb19b1765974f66456a4_3.svg)
+
+### Outcome
+
+All‑in‑one ISO‑container MDC mounted on wheeled platforms; high availability designed to meet Tier III principles; quick‑disconnect power and low‑voltage (LV) signaling
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb27d8a87712ab2fa131_4.svg)
+
+### Transport & siting
+
+Standard 40‑ft High Cube ISO form factor; road‑legal width; platform leveling via screw jacks
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb19b1765974f66456a4_3.svg)
+
+### Time‑to‑deploy
+
+Within hours (pre‑staged playbook)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb499eccae8417fdeea4_6.svg)
+
+### IT capacity
+
+Up to 40 kW across six 42U racks
+
+## Challenges
+
+### — Mobility hardware
+
+Wheeled platforms with rated jacking points; exterior quick‑connect panels for power and LV; protection for connectors during transit
+
+### — Power
+
+Modular UPS (power + battery modules in one frame) providing ~10 minutes autonomy at design load; 2N power distribution; generator‑ready
+
+### — Cooling
+
+Row‑based precision air‑conditioning with humidity control; uninterruptible air‑conditioning; N+1 on main HVAC components
+
+### — Fire & safety
+
+Automatic clean‑agent suppression; early warning detection
+
+### — Security & monitoring
+
+Access control, CCTV, infrastructure & environmental telemetry with alarms
+
+## Solution
+
+A dual-site, four-module modular data-center complex was deployed to host and replicate the national video-capture data. Each site includes two 40-ft IT modules operating as a single fault-tolerant unit.
+
+Power, cooling, and networking subsystems were engineered for parallel operation and independent maintenance.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906c1efdca43f9de18c0b3d_Group%2011743.avif)
+
+## Key features
+
+### — Reliability
+
+Support uninterrupted 24/7 video ingestion and analytics across hundreds of roadside nodes
+
+### — Continuity
+
+Survive utility outages and maintain compute uptime through redundancy
+
+### — Deployment speed
+
+Achieve national rollout within months under tight regulatory scrutiny
+
+### — Connectivity
+
+Handle large streaming data flows with structured fiber cabling and clean cable management
+
+### — Compliance
+
+Ensure shielding and resilience standards for public-safety systems
+
+## Custom engineering
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bc6786d3d43d5a3a2e8e_1.svg)
+
+### Two-site topology
+
+Full data replication between sites; any single site failure keeps national system online
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Redundant power chain
+
+Dual feed + generator + ATS for each module, ensuring automatic switchover
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Cabling density
+
+IANOS solution optimized for compact modular enclosures and fast field replacement
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Shielding integration
+
+EM protection applied during fabrication to meet national communication-security requirements
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Regulatory path
+
+Local production simplified approvals and shortened build-to-operation timeline to ~4 months
+
+## Results
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1d6df45f142c6191310_4.svg)
+
+### Operational resilience
+
+Dual-site, four-module setup ensures data capture continuity during maintenance or outages
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### Energy efficiency
+
+In-row cooling balanced thermal load across racks, maintaining performance at 15 kW/rack
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b199e1097d94d375c729_1.svg)
+
+### On-time rollout
+
+From concept to service in ≈ 4 months — faster than any conventional facility
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b199e1097d94d375c729_1.svg)
+
+### Network readiness
+
+Structured cabling future-proofed for 40/100 Gb/s links
+
+## Specs snapshot
+
+### Sites / modules
+
+2 sites ×  
+2 modules (4 total)
+
+### Per-module IT load
+
+6 80 kW  
+Per-rack: up to 15 kW
+
+### Power resilience
+
+Dual feeds + 160 kW Cummins DCC  
+genset + ASCO 230 ATS per module
+
+### Cooling
+
+In-row air conditioning
+
+### UPS
+
+Modular redundant design
+
+### Cabling
+
+HUBER+SUHNER IANOS  
+(72 LC Duplex / 1U, 10 → 40/100 Gb/s)
+
+### Build & compliance
+
+Local manufacture with EM shielding;  
+commissioned in ≈ 4 months
+
+## Business value and fit
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b9564e6d52be9ca00ba2_1.svg)
+
+### Value
+
+Rapid, compliant, and resilient compute backbone for national video-analytics systems; reusable modular asset that scales by adding modules
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1d6df45f142c6191310_4.svg)
+
+### Ideal for
+
+Public safety, transport agencies, and smart-city video analytics deployments
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b97299eda15c2bf9914d_3.svg)
+
+### Options
+
+EMP/EMI shielding, enhanced dust and temperature packages, extended bandwidth fabrics for future sensor loads
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### Not ideal for
+
+Hyperscale or AI-training clusters (>120–150 kW/rack)
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [Energy-Efficient Relocatable Modular Data Center for Public Sector](https://www.moduledge.com/case-study/public-sector-modular-data-center-energy-efficient-relocatable-build)
+
+Ukraine
+
+# Public-Sector Modular Data Center (Energy-Efficient, Relocatable Build)
+
+Two joined 40-ft containerized data centers hosting up to 120 kW IT load, combining hybrid free-cooling with DX systems for Tier III resilience and low OPEX.
+
+[
+
+Book a 30-min call
+
+](/contact-us)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab3d52224142f6d1d1c4_Rectangle%20815.jpg)
+
+## Context
+
+A national public-sector organization required a high-availability data center that could be built faster than a stationary facility while meeting strict reliability and energy-efficiency standards. The site had limited construction options and a fixed power envelope. The customer needed a turnkey, factory-tested solution that could be transported, assembled, and fully commissioned outdoors under all-weather conditions.
+
+## At a glance
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb00cdad7f46456d34ef_1.svg)
+
+### Customer
+
+Government agency (anonymized, Ukraine)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb0b2e758df565ba2368_2.svg)
+
+### Use case
+
+Secure on-prem compute and storage with high availability, fast delivery, and low OPEX
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb19b1765974f66456a4_3.svg)
+
+### Outcome
+
+Two-module MDC with hybrid free-cooling system, redundant UPS, fire suppression, and early-smoke detection
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb27d8a87712ab2fa131_4.svg)
+
+### Transport & siting
+
+Modular footprint, outdoor installation, relocatable
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb19b1765974f66456a4_3.svg)
+
+### Time‑to‑deploy
+
+Factory build and site commissioning within months
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb499eccae8417fdeea4_6.svg)
+
+### IT capacity
+
+Up to 16 racks / 120 kW IT load
+
+## Challenges
+
+### — Time-to-value
+
+Deliver Tier III-equivalent resilience within months, not years
+
+### — Energy efficiency
+
+Integrate direct free-cooling to reduce operating costs
+
+### — Environmental limits
+
+Outdoor installation, minimal site works
+
+### — Operational continuity
+
+Maintain redundancy across cooling, power, and safety systems
+
+### — Mobility
+
+Design the complex to be disassembled and re-assembled if needed
+
+## Solution
+
+A two-module 40-ft ISO-based MDC complex joined along its long side, creating unified IT and MEP zones. The system combines direct free-cooling with precision air-conditioning and intelligent humidity control.
+
+Each module was factory-built and fully tested (FAT), then shipped and installed at the customer site for SAT and commissioning. The MDC operates as a stationary facility but remains relocatable for future moves.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906c59054d132f26e2cf4f3_Group%2011743.avif)
+
+## Key features
+
+### — IT capacity
+
+Up to 16 racks / 120 kW IT load
+
+### — Power
+
+Dual modular UPS with battery cabinets; redundant power path; generator-ready
+
+### — Fire & safety
+
+Gas-based suppression; aspirating early-smoke detection; raised floor (600 mm) for structured cabling
+
+### — Control & monitoring
+
+Centralized intelligent controller optimizing temperature / humidity balance
+
+### — Mobility
+
+Modular design enabling disassembly and relocation without new construction
+
+## Custom engineering
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bc6786d3d43d5a3a2e8e_1.svg)
+
+### Two-module architecture
+
+Custom frame joining long sides of 40-ft units for shared airflow and cabling corridors
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Economizer superstructure
+
+Rooftop and external economizer housings supporting hybrid free-cooling
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Plenum airflow design
+
+Mixed-air chamber balances cold outside air with hot return flow to maintain stable inlet temps
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Intelligent control logic
+
+Software algorithms select free-cooling vs. DX mode for optimal PUE in varying seasons
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Electrical segregation
+
+Dedicated zones for LV/MV gear and UPS cabinets with service vestibule access
+
+## Results
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1d6df45f142c6191310_4.svg)
+
+### Delivered on schedule
+
+Full build-to-commission in the required timeframe
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### High efficiency
+
+Free-cooling reduced operational power consumption vs. traditional DX-only sites
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b199e1097d94d375c729_1.svg)
+
+### Resilience proven:
+
+N+1 cooling and dual UPS achieved concurrent-maintainable operation (Tier III principles)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b199e1097d94d375c729_1.svg)
+
+### Mobility retained
+
+Modules designed for future redeployment or capacity expansion
+
+## Specs snapshot
+
+### Form factor
+
+Two × 40-ft ISO  
+modules joined longitudinally
+
+### 6 Racks / IT load
+
+16 × 42U racks  
+/ up to 120 kW IT
+
+### Cooling
+
+Hybrid direct free-cooling + precision DX;  
+N+1 redundancy; intelligent humidity control
+
+### Power path
+
+Dual modular UPS + battery cabinets;  
+generator interface; redundant distribution
+
+### Fire & safety
+
+Gas suppression; aspirating early-smoke detection;  
+600 mm raised floor
+
+### Control
+
+Centralized intelligent environmental controller
+
+### Mobility
+
+Factory-built, tested, transportable, and relocatable
+
+## Business value and fit
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b9564e6d52be9ca00ba2_1.svg)
+
+### Value
+
+Energy-efficient, Tier III-grade reliability delivered faster than traditional builds; reusable modular asset
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1d6df45f142c6191310_4.svg)
+
+### Ideal for
+
+Public-sector programs, regional operators, or enterprises needing secure on-prem capacity under tight timelines
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b97299eda15c2bf9914d_3.svg)
+
+### Options
+
+EMP shielding, extended temperature hardening, and monitoring integrations available on request
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b1beaefd9aad92c68645_3.svg)
+
+### Not ideal for
+
+Hyperscale or AI-training clusters (>120 kW/rack)
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.
+
+---
+
+## [EMP-Shielded Modular Data Center for Secure Critical Infrastructure](https://www.moduledge.com/case-study/shielded-modular-data-center-emp-iemi-protection)
+
+Eastern Europe
+
+# Shielded Modular Data Center (EMP/IEMI Protection)
+
+Fully shielded modular enclosure with verified Faraday-grade protection, EMP-rated SPDs, and concurrent-maintainable power/cooling for sensitive workloads.
+
+[
+
+Book a 30-min call
+
+](/contact-us)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/691cab2c7b4dceceb3a559de_Rectangle%20799.jpg)
+
+## Context
+
+In 2017, an international security mission operating in Ukraine needed a reliable IT backbone to support time‑boxed operations. Leadership required high availability and concurrent maintainability but expected to remain in‑country only 3–5 years – making building renovations or permanent plant economically unsound.
+
+## At a glance
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/69283536626bf23445452e24_Group%2012300.svg)
+
+### Customer
+
+Government organization (anonymized), Eastern Europe
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6928354af0d6cfc73f6ccbe5_Group%2012367.svg)
+
+### Time‑to‑deploy
+
+Factory build plus site commissioning within months
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bb499eccae8417fdeea4_6.svg)
+
+### IT capacity
+
+Not disclosed (confidential); architecture supports high-density edge inference where needed (≥40 kW/rack)
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6928358b2185716a0e5951b5_Group%2012301.svg)
+
+### Use case
+
+Privacy-critical on-prem compute protected against electromagnetic interference and intentional high-power pulses
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/69283617f6efc0b9f09e6001_Group%2012368.svg)
+
+### Outcome
+
+Fully shielded modular data center (Faraday-grade enclosure), verified shielding effectiveness; high availability designed to meet Tier III principles; integrated SPDs, fire suppression, and monitored access
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/69283627905e0d416ea56161_Group%2011583.svg)
+
+### Transport & siting
+
+Factory-assembled, instrument-verified shielding; outdoor installation; relocatable
+
+## Challenges
+
+### — Temporary footprint
+
+Infrastructure had to be non‑permanent and redeployable.
+
+### — Regulatory constraints
+
+Transport had to comply with road regulations.
+
+### — Urban deployment
+
+Installation site was adjacent to rented office space in a dense city environment.
+
+### — Business continuity
+
+Mission‑critical IT workloads demanded concurrent‑maintainable power/cooling, fire suppression, and access control.
+
+## Solution
+
+ModulEdge delivered a _Type S modular data center_ as a cluster of ISO‑standard modules. Each unit stayed within _2,438 mm (8‑ft) ISO width_, enabling standard road transport.
+
+The cluster was placed beside the rented office to minimize latency, integrate with the existing security perimeter, and simplify facilities access.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906c9105fb30e06599529d4_Group%2011743.avif)
+
+## Key features
+
+### — IT capacity
+
+Up to 40 kW across four racks (3× 42U 600 mm server + 1× 42U 800 mm telecom rack).
+
+### — Power
+
+Modular UPS with ~10‑minute battery autonomy; 2N power distribution for concurrent maintainability.
+
+### — Operations & monitoring
+
+Integrated alarms and environmental monitoring for remote oversight by the mission IT team.
+
+### — Safety & security
+
+Automatic clean‑agent fire suppression; CCTV and role‑based access control integrated with the mission’s security stack.
+
+### — Deployability
+
+Modules designed and documented for disassembly, road transport, and re‑installation in a new host country at mission end.
+
+### — Options
+
+EMP shielding available on request; alternative cooling configurations (e.g., indirect free cooling) for suitable climates and PUE targets.
+
+### — Site flexibility
+
+Can be installed on unprepared sites; compatible with protective measures (e.g., Hesco barriers, below‑grade placements) where security policy requires.
+
+### — Cooling (deployed)
+
+In‑row DX air conditioning with humidity control; hot/cold aisle separation; detachable corridor module preserves ergonomic clearance (≥1.2 m front, ≥0.9 m rear).
+
+## Custom engineering
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906bc6786d3d43d5a3a2e8e_1.svg)
+
+### Dock‑on corridor module
+
+The cold‑aisle walkway ships detached to keep each unit within the ISO road‑legal 2,438 mm width. On site, it docks to the IT module to provide full hot/cold containment and ergonomic clearances, while preserving standard‑cargo logistics during transport.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### MEP quick‑connects
+
+Pre‑engineered mechanical/electrical couplers enable safe, fast mating/demating of the corridor without field fabrication.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### Urban logistics ready
+
+The split design and custom sizes reduces permit/escort requirements and allows navigation through dense city streets and under standard overpasses – supporting low‑visibility redeployments.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6906b2b2634217da7e9b6f5e_2.svg)
+
+### IP/know‑how
+
+The docking‑corridor approach is patented, reflecting long‑running local engineering for constrained‑route transport.
+
+## Results
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6927aa1018c503dd8a205cb9_Group%2012303.svg)
+
+### Lifecycle flexibility
+
+At mission close, MDCs were dismantled and redeployed, preserving donor investment.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6927aa1e832cb4d217ff9e8a_Group%2012304.svg)
+
+### Capital efficiency
+
+Avoided sunk CAPEX in leased building infrastructure; MDC remains a reusable asset.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/6927aa2ed1c802edab0e9272_Group%2012305.svg)
+
+### Operational assurance
+
+Resilience designed to meet Tier 3 principles for security, communications, and logistics workloads.
+
+## Specs snapshot
+
+### Form factor
+
+ISO‑standard modular cluster (Type S)
+
+### Racks
+
+3× 42U 600 mm + 1× 42U 800 mm  
+up to 120 kW IT
+
+### IT load
+
+up to 40 kW total (this project)
+
+### Cooling
+
+in‑row DX with containment; humidity control
+
+### Power path
+
+2N distribution; UPS autonomy ~10 minutes
+
+### Safety
+
+clean‑agent fire suppression;  
+monitoring & alarms
+
+### Security
+
+CCTV, access control, audit logging
+
+## Business value and fit
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/692833485efbb5734007025c_Group%2011448.svg)
+
+### Value
+
+Reusable asset that avoids stranded CAPEX; option sets for energy efficiency (where climate permits) to improve PUE while meeting resilience targets.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/692831e4006236dad95718d4_Group%2012365.svg)
+
+### Ideal for
+
+Leased or short‑term sites; urban deployments with road‑permit sensitivity; missions needing concurrent‑maintainable capacity and a clear exit plan.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/692831fbf5415277e95a7314_Group%2011775.svg)
+
+### Partner lens
+
+ISO width simplifies staging/warehousing/last‑mile; documentation and clean handover artifacts enable fast enablement and first‑line support; scope is bundle‑ready with upstream IT and security stacks.
+
+![](https://cdn.prod.website-files.com/690654eab34d5bfe8d24c00b/692833589a05ce51e21dd227_Group%2012366.svg)
+
+### Not ideal for
+
+Long‑term campuses planning high‑density AI training clusters (120–150 kW/rack) or very large estates where traditional data halls are more economical.
+
+## FAQ
+
+### What is a modular data center?
+
+A modular data center (MDC) is a prefabricated, container-based data center that integrates racks, power, cooling, and security systems inside portable enclosures. Unlike traditional on-site construction, a containerized modular data center is factory-built, tested, and shipped ready for installation. ModulEdge designs scalable modular data centers from 5-150 kW per rack with DX, chilled-water, adiabatic, and free-cooling options — engineered for edge and AI workloads where reliability and low latency matter most.
+
+### Why consider a modular data center?
+
+A container modular data center enables faster deployment, lower risk, and predictable performance compared to conventional builds. Prefabricated and tested in the factory, these systems minimize site work and allow operators to scale step-by-step as demand grows. Organizations in telecom, industry, energy, and government choose mobile and containerized data centers to place compute closer to operations, improve resilience, and maintain on-prem control of sensitive workloads. ModulEdge’s portable modular data center solutions combine EU engineering with ruggedized designs for harsh conditions.
+
+### How are modular data centers different from traditional data centers?
+
+Traditional data centers are built on-site, requiring long construction cycles and multiple contractors. A prefabricated modular data center is built in controlled factory conditions, integrating power, cooling, fire suppression, and monitoring systems before shipment. This approach cuts deployment from years to months, ensures quality through FAT/SAT testing, and allows redeployment when operations move. ModulEdge’s containerized data center infrastructure offers the same Tier III/IV design principles as conventional facilities — with faster rollout, lower cost, and modular scalability.
+
+### Are you Tier III certified?
+
+Our modules are **designed to meet Tier I - IV principles**. Certification applies to a specific site and build; we support auditor engagement for deployments that pursue certification.
+
+### Do you support AI training clusters?
+
+No. We position for **edge AI inference at ≥40 kW per rack**. Training‑class densities (≈120–150 kW/rack) are not feasible in this form factor.
+
+### What’s the typical lead time?
+
+**Custom builds: 3–6 months**. Commissioning depends on scope and **site readiness** (power, pad, network). We’ll confirm a schedule during design review.
+
+### How do you handle hot or variable climates?
+
+We match **DX, chilled‑water, adiabatic, or free‑cooling** to your climate and energy costs, targeting predictable efficiency (modeled PUE) and thermal headroom.
+
+### Can the modules handle harsh environments?
+
+Yes – **dust/sand/humidity hardening**, **vibration tolerance**, and **optional EMP shielding** are available to maintain uptime in demanding sites.
+
+### Will this integrate with our existing monitoring and access control?
+
+Yes. We deliver **integrated monitoring and access/CCTV** and align interfaces during design review to fit your tooling and security policies.
+
+### Can we redeploy modules later?
+
+Yes. Standard **20‑ft and 40‑ft** footprints with a **redeployable** approach; we provide rigging/placement plans and support relocation.
+
+‍
+
+### Do you sell direct or via partners?
+
+We’re **partner‑first** (OEM/whitelabel and system integrators). End‑user projects are delivered with or through partners.

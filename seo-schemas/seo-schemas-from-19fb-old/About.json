@@ -3,17 +3,13 @@
   "@context": "https://schema.org",
   "@type": "AboutPage",
   "name": "About ModulEdge | Modular Data Center Manufacturer & Engineering Team",
-  "url": "https://www.moduledge.com/about",
+  "url": "/about",
   "inLanguage": "en",
   "about": {
     "@type": "Organization",
     "name": "ModulEdge",
     "description": "ModulEdge designs and manufactures modular data centers that deliver reliable, high-density compute exactly where it's needed — on-site, on the edge, and under real-world constraints.",
-    "foundingDate": "2023",
-    "numberOfEmployees": {
-      "@type": "QuantitativeValue",
-      "value": 120
-    },
+    "foundingDate": "2015",
     "url": "https://www.moduledge.com",
     "logo": {
       "@type": "ImageObject",
@@ -32,9 +28,18 @@
       "https://www.linkedin.com/company/moduledge/"
     ],
     "areaServed": [
-      { "@type": "Place", "name": "Europe" },
-      { "@type": "Place", "name": "MENA" },
-      { "@type": "Place", "name": "Central Asia" }
+      {
+        "@type": "Place",
+        "name": "Europe"
+      },
+      {
+        "@type": "Place",
+        "name": "MENA"
+      },
+      {
+        "@type": "Place",
+        "name": "Central Asia"
+      }
     ],
     "slogan": "Engineered in Europe. Proven in extreme conditions.",
     "knowsAbout": [
@@ -55,8 +60,16 @@
       }
     ],
     "location": [
-      { "@type": "Place", "name": "Czech Republic", "description": "Headquarters" },
-      { "@type": "Place", "name": "Ukraine", "description": "Manufacturing and assembly" }
+      {
+        "@type": "Place",
+        "name": "Czech Republic",
+        "description": "Headquarters"
+      },
+      {
+        "@type": "Place",
+        "name": "Ukraine",
+        "description": "Manufacturing and assembly"
+      }
     ],
     "makesOffer": [
       {

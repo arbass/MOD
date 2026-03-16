@@ -5,7 +5,7 @@
   "name": "Custom Modular Data Center Design & Engineering",
   "serviceType": "Modular Data Center Engineering and Customization",
   "url": "https://www.moduledge.com/customization",
-  "description": "Full customization for modular data centers including cooling architecture, power systems, security, mobility, and integration options. Tailored builds for AI, HPC, telecom, and industrial edge.",
+  "description": "Full customization for modular data centers including cooling architecture, power systems, security, mobility, and integration options. Tailored builds for AI, HPC, telecom, defense, and industrial edge.",
   "provider": {
     "@type": "Organization",
     "name": "ModulEdge",
@@ -61,7 +61,7 @@
         "itemOffered": {
           "@type": "Service",
           "name": "Environmental Hardening",
-          "description": "Dust, sand, and humidity sealing per ISO 14644 / IEC 60529, tested for −35 °C to +52 °C ambient conditions with optional EMP/EMI shielding"
+          "description": "Dust, sand, and humidity sealing per ISO 14644 / IEC 60529, tested for −40 °C to +55 °C ambient conditions with optional EMP/EMI shielding"
         }
       }
     ]

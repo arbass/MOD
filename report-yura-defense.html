@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Defense Removal — ModulEdge Audit Report</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f5f6f8;
+      color: #1a1a2e;
+      line-height: 1.6;
+      padding: 40px 20px 80px;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+
+    /* Header */
+    .header {
+      background: #fff;
+      border-radius: 12px;
+      padding: 32px 36px;
+      margin-bottom: 24px;
+      border-left: 5px solid #2563eb;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+    .header-meta {
+      font-size: 13px;
+      color: #6b7280;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .header h1 {
+      font-size: 24px;
+      font-weight: 700;
+      color: #111827;
+      margin-bottom: 8px;
+    }
+    .header p {
+      color: #374151;
+      font-size: 15px;
+    }
+
+    /* Section card */
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      padding: 28px 32px;
+      margin-bottom: 20px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+    .card-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #111827;
+      margin-bottom: 18px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .card-title .icon {
+      width: 28px;
+      height: 28px;
+      border-radius: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 15px;
+      flex-shrink: 0;
+    }
+    .icon-green { background: #dcfce7; }
+    .icon-blue  { background: #dbeafe; }
+    .icon-amber { background: #fef3c7; }
+    .icon-red   { background: #fee2e2; }
+
+    /* Status rows */
+    .item {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f3f4f6;
+    }
+    .item:last-child { border-bottom: none; }
+    .badge {
+      flex-shrink: 0;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 9px;
+      border-radius: 20px;
+      white-space: nowrap;
+      margin-top: 2px;
+    }
+    .badge-done  { background: #dcfce7; color: #166534; }
+    .badge-ready { background: #dbeafe; color: #1d4ed8; }
+    .badge-todo  { background: #fef3c7; color: #92400e; }
+    .badge-question { background: #f3e8ff; color: #6b21a8; }
+
+    .item-text { font-size: 14px; color: #374151; }
+    .item-text strong { color: #111827; }
+    .item-text a { color: #2563eb; text-decoration: none; }
+    .item-text a:hover { text-decoration: underline; }
+
+    /* Code diff */
+    .diff {
+      margin-top: 10px;
+      border-radius: 8px;
+      overflow: hidden;
+      font-size: 13px;
+      font-family: "SF Mono", "Fira Code", monospace;
+    }
+    .diff-row {
+      padding: 6px 14px;
+      display: flex;
+      gap: 10px;
+    }
+    .diff-del { background: #fff5f5; color: #b91c1c; }
+    .diff-add { background: #f0fdf4; color: #166534; }
+    .diff-sign { font-weight: 700; flex-shrink: 0; width: 14px; }
+
+    /* Table */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13.5px;
+      margin-top: 4px;
+    }
+    th {
+      background: #f9fafb;
+      text-align: left;
+      font-size: 12px;
+      font-weight: 600;
+      color: #6b7280;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      padding: 9px 12px;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    td {
+      padding: 10px 12px;
+      border-bottom: 1px solid #f3f4f6;
+      color: #374151;
+      vertical-align: top;
+    }
+    tr:last-child td { border-bottom: none; }
+    td.url { font-family: "SF Mono", monospace; font-size: 12px; color: #2563eb; }
+    td.quote { font-style: italic; color: #6b7280; }
+
+    /* Note box */
+    .note {
+      background: #fffbeb;
+      border: 1px solid #fcd34d;
+      border-radius: 8px;
+      padding: 14px 18px;
+      font-size: 13.5px;
+      color: #78350f;
+      margin-top: 18px;
+    }
+    .note strong { color: #92400e; }
+
+    .note-blue {
+      background: #eff6ff;
+      border-color: #93c5fd;
+      color: #1e40af;
+    }
+    .note-blue strong { color: #1d4ed8; }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="header-meta">ModulEdge · Artem → Yuri · 13 March 2026</div>
+    <h1>Defense Removal — Site Audit &amp; Changes Report</h1>
+    <p>
+      Привет, Юра! Ниже — полный отчёт по задаче удаления "defense" с сайта.
+      С помощью Claude я просканировал все 33 страницы сайта: главные, кейсы, блог (16 статей), схемы и llms.txt.
+      Вот что было найдено и что сделано.
+    </p>
+  </div>
+
+  <!-- Section 1: Done by Yuri -->
+  <div class="card">
+    <div class="card-title">
+      <span class="icon icon-green">✅</span>
+      Твои задачи — выполнено
+    </div>
+    <div class="item">
+      <span class="badge badge-done">Готово</span>
+      <div class="item-text"><strong>Publish в Webflow</strong> — опубликовано. Твои 5 CMS-изменений (FAQ + Case Study) вышли в прод.</div>
+    </div>
+    <div class="item">
+      <span class="badge badge-done">Готово</span>
+      <div class="item-text">
+        <strong>About → блок "What we Serve"</strong> — при сканировании живой сайт уже показывал <em>"Government / Critical Infrastructure"</em>. Видимо, это изменение ты внёс до публикации через API или оно уже было правильным.
+      </div>
+    </div>
+  </div>
+
+  <!-- Section 2: Mobile MDC -->
+  <div class="card">
+    <div class="card-title">
+      <span class="icon icon-green">✅</span>
+      Mobile MDC Case Study — исправлено и опубликовано
+    </div>
+    <div class="item">
+      <span class="badge badge-done">Готово</span>
+      <div class="item-text">
+        <strong><a href="https://www.moduledge.com/case-study/mobile-all-in-one-mdc-on-wheeled-platforms" target="_blank">/case-study/mobile-all-in-one-mdc-on-wheeled-platforms</a></strong><br/>
+        Секция "Business value and fit", буллет "Ideal for":
+        <div class="diff">
+          <div class="diff-row diff-del"><span class="diff-sign">−</span><span><strong>Defense,</strong> public safety, emergency response, and sensitive operations requiring quiet relocation or surge compute</span></div>
+          <div class="diff-row diff-add"><span class="diff-sign">+</span><span>Public safety, emergency response, and sensitive operations requiring quiet relocation or surge compute</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Section 3: JSON-LD schemas -->
+  <div class="card">
+    <div class="card-title">
+      <span class="icon icon-blue">📄</span>
+      JSON-LD схемы — 3 страницы (исправлено, нужна вставка в Webflow)
+    </div>
+    <p style="font-size:13.5px; color:#6b7280; margin-bottom:16px;">
+      Claude нашёл слово <strong>"defense"</strong> в JSON-LD structured data на трёх страницах.
+      Схемы подготовлены с исправлениями — Артём вставит их в Webflow Custom Code каждой страницы.
+    </p>
+
+    <div class="item">
+      <span class="badge badge-ready">Готово к вставке</span>
+      <div class="item-text">
+        <strong><a href="https://www.moduledge.com/customization" target="_blank">/customization</a></strong> — поле <code>description</code> сервиса:
+        <div class="diff">
+          <div class="diff-row diff-del"><span class="diff-sign">−</span><span>Tailored builds for AI, HPC, telecom, <strong>defense,</strong> and industrial edge.</span></div>
+          <div class="diff-row diff-add"><span class="diff-sign">+</span><span>Tailored builds for AI, HPC, telecom, and industrial edge.</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="item">
+      <span class="badge badge-ready">Готово к вставке</span>
+      <div class="item-text">
+        <strong><a href="https://www.moduledge.com/" target="_blank">/home</a></strong> — FAQ "Why consider a modular data center?":
+        <div class="diff">
+          <div class="diff-row diff-del"><span class="diff-sign">−</span><span>Organizations in telecom, industry, energy, and <strong>defense</strong> choose mobile and containerized data centers...</span></div>
+          <div class="diff-row diff-add"><span class="diff-sign">+</span><span>Organizations in telecom, industry, energy, and <strong>government</strong> choose mobile and containerized data centers...</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="item">
+      <span class="badge badge-ready">Готово к вставке</span>
+      <div class="item-text">
+        <strong><a href="https://www.moduledge.com/contact-us" target="_blank">/contact-us</a></strong> — тот же FAQ (дублируется в схеме Contact):
+        <div class="diff">
+          <div class="diff-row diff-del"><span class="diff-sign">−</span><span>Organizations in telecom, industry, energy, and <strong>defense</strong> choose mobile and containerized data centers...</span></div>
+          <div class="diff-row diff-add"><span class="diff-sign">+</span><span>Organizations in telecom, industry, energy, and <strong>government</strong> choose mobile and containerized data centers...</span></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="note note-blue" style="margin-top:16px;">
+      <strong>Примечание по Partner Program:</strong> при сканировании живой схемы слово "defense" там не обнаружено — схема уже чистая, вмешательство не потребовалось.
+    </div>
+  </div>
+
+  <!-- Section 4: llms.txt -->
+  <div class="card">
+    <div class="card-title">
+      <span class="icon icon-blue">🤖</span>
+      llms.txt — исправлено (нужна загрузка на Webflow)
+    </div>
+    <p style="font-size:13.5px; color:#6b7280; margin-bottom:16px;">
+      Файл <code>llms.txt</code> — это документация для AI-краулеров. Содержал 6 типов упоминаний "defense".
+      Готовый файл <code>llms_fixed.txt</code> лежит в папке <code>Downloads</code> у Артёма.
+    </p>
+
+    <table>
+      <thead>
+        <tr><th>Строка</th><th>Было</th><th>Стало</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>8 (TOC)</td>
+          <td class="quote">Tailored builds for AI, HPC, telecom, <strong>defense</strong>, and industrial edge.</td>
+          <td class="quote">Tailored builds for AI, HPC, telecom, and industrial edge.</td>
+        </tr>
+        <tr>
+          <td>20 (TOC)</td>
+          <td class="quote">shielding for <strong>defense</strong> and national-security workloads</td>
+          <td class="quote">shielding for <strong>government</strong> and national-security workloads</td>
+        </tr>
+        <tr>
+          <td>327, 522, 777... (×11)</td>
+          <td class="quote">energy, and <strong>defense</strong> choose mobile and containerized...</td>
+          <td class="quote">energy, and <strong>government</strong> choose mobile and containerized...</td>
+        </tr>
+        <tr>
+          <td>701</td>
+          <td class="quote">Operating deployments in energy, <strong>defense</strong>, and telecom.</td>
+          <td class="quote">Operating deployments in energy, <strong>government</strong>, and telecom.</td>
+        </tr>
+        <tr>
+          <td>927</td>
+          <td class="quote"><strong>Defense</strong> / Critical Infrastructure</td>
+          <td class="quote"><strong>Government</strong> / Critical Infrastructure</td>
+        </tr>
+        <tr>
+          <td>2083</td>
+          <td class="quote"><strong>Defense,</strong> public safety, emergency response...</td>
+          <td class="quote">Public safety, emergency response...</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Section 5: Blog articles -->
+  <div class="card">
+    <div class="card-title">
+      <span class="icon icon-amber">📝</span>
+      Блог-статьи — 7 статей с упоминаниями (требуют решения)
+    </div>
+    <p style="font-size:13.5px; color:#6b7280; margin-bottom:16px;">
+      При сканировании 16 блог-статей найдено 7 с упоминаниями "defense" в теле статей (не в схемах).
+      Это CMS-контент — редактируется через Webflow Editor или API.
+    </p>
+
+    <table>
+      <thead>
+        <tr><th>Страница</th><th>Контекст</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="url"><a href="https://www.moduledge.com/blog/container-data-center-specification-guide" target="_blank">/blog/container-data-center-specification-guide</a></td>
+          <td class="quote">"For sensitive deployments in <strong>defense</strong> or critical infrastructure, optional EMP shielding is available."</td>
+        </tr>
+        <tr>
+          <td class="url"><a href="https://www.moduledge.com/blog/gpu-vs-lpu-vs-npu-ai-chip-infrastructure" target="_blank">/blog/gpu-vs-lpu-vs-npu-ai-chip-infrastructure</a></td>
+          <td class="quote">"energy sites, telecom edges, industrial facilities, <strong>defense</strong> installations."</td>
+        </tr>
+        <tr>
+          <td class="url"><a href="https://www.moduledge.com/blog/modular-data-center-cooling-free-cooling-dx-hybrid" target="_blank">/blog/modular-data-center-cooling-free-cooling-dx-hybrid</a></td>
+          <td class="quote">Заголовок сценария: "<strong>Defense</strong> / critical infrastructure module with EMP shielding, any climate"</td>
+        </tr>
+        <tr>
+          <td class="url"><a href="https://www.moduledge.com/blog/modular-data-center-guide" target="_blank">/blog/modular-data-center-guide</a></td>
+          <td class="quote">"For sensitive deployments (<strong>defense</strong>, etc.), additional hardening options exist: ballistic-resistant panels, EMI/EMP shielding"</td>
+        </tr>
+        <tr>
+          <td class="url"><a href="https://www.moduledge.com/blog/modular-vs-prefabricated-vs-containerized-data-centers-procurement-guide" target="_blank">/blog/modular-vs-prefabricated-vs-containerized...</a></td>
+          <td class="quote">"Containerized deployments remain well-suited for... <strong>defence</strong> forward positions"</td>
+        </tr>
+        <tr>
+          <td class="url"><a href="https://www.moduledge.com/blog/system-integrator-white-label-modular-data-center-guide" target="_blank">/blog/system-integrator-white-label-modular-data-center-guide</a></td>
+          <td class="quote">"EMP shielding for <strong>defense</strong> and critical infrastructure applications."</td>
+        </tr>
+        <tr style="background:#fffbeb;">
+          <td class="url"><a href="https://www.moduledge.com/blog/modular-data-center-market-2026" target="_blank">/blog/modular-data-center-market-2026</a> ⚠️</td>
+          <td class="quote">Несколько упоминаний: рыночная статистика — "European <strong>defense</strong>-tech spending rose thirteenfold", "NATO FMN compatibility for <strong>defense</strong> deployments", etc.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div class="note">
+      <strong>Вопрос по последней статье (/blog/modular-data-center-market-2026):</strong>
+      Там "defense" используется как факт о рынке (бюджеты НАТО, статистика расходов). Это не позиционирование ModulEdge как defense-бренда, а описание тренда. Убирать или оставить — на твоё усмотрение.
+    </div>
+  </div>
+
+  <!-- Section 6: Address question -->
+  <div class="card">
+    <div class="card-title">
+      <span class="icon icon-red">❓</span>
+      Вопрос от Артёма: адрес в JSON-LD (Home)
+    </div>
+    <p style="font-size:14px; color:#374151; margin-bottom:14px;">
+      Юра, я немного в замешательстве и хочу уточнить.
+    </p>
+    <p style="font-size:14px; color:#374151; margin-bottom:14px;">
+      В репозитории (предыдущая версия <code>Home.json</code>) был полный адрес организации:
+    </p>
+    <div class="diff" style="margin-bottom:14px;">
+      <div class="diff-row diff-del"><span class="diff-sign">−</span><span>"streetAddress": "Vodní 52/3", "postalCode": "767 01", "addressLocality": "Kroměříž", "addressCountry": "CZ"</span></div>
+    </div>
+    <p style="font-size:14px; color:#374151; margin-bottom:14px;">
+      Когда Claude считал живую схему с сайта — там оказался только <code>"addressCountry": "CZ"</code>. Полные поля отсутствовали.
+    </p>
+    <p style="font-size:14px; color:#374151;">
+      <strong>Вопрос:</strong> ты заходил в Custom Code страницы Home и редактировал JSON-LD? Или это просто WebFetch вернул неполный результат?
+      Хочу убедиться, что мы случайно не потеряли данные. Если нужно — восстановим полный адрес в новой схеме.
+    </p>
+  </div>
+
+  <!-- Footer -->
+  <div class="footer">
+    Audit performed with Claude (Anthropic) · moduledge.com · 13 March 2026
+  </div>
+
+</div>
+</body>
+</html>
